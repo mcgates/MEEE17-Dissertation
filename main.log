@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.7.10)  13 JUL 2024 07:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.7.10)  13 JUL 2024 12:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -293,7 +293,17 @@ dvips/cm-super/cm-super-t1.enc}])
 \openout2 = `"Contents/table of contents.aux"'.
 
 
-(./Contents/table of contents.tex (./main.toc)
+(./Contents/table of contents.tex (./main.toc
+LaTeX Font Info:    Trying to load font information for U+msa on input line 3.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 3.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+))
 \tf@toc=\write3
 \openout3 = `main.toc'.
 
@@ -358,7 +368,7 @@ File: Figures/re dc mg.png Graphic file (type png)
 Package pdftex.def Info: Figures/re dc mg.png  used on input line 45.
 (pdftex.def)             Requested size: 394.57745pt x 227.62204pt.
  [10 <./Figures/re dc mg.png>])
-[11] (./main.aux (./TitlePage.aux) (./Contents/Acknowledgement.aux)
+[11] [12] (./main.aux (./TitlePage.aux) (./Contents/Acknowledgement.aux)
 (./Contents/Abstract.aux) (./Contents/table of contents.aux)
 (./Contents/list of tables.aux) (./Contents/list of figures.aux)
 (./Contents/glossary.aux))
@@ -368,11 +378,11 @@ L3 programming layer <2024-01-22>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 6396 strings out of 474222
- 109999 string characters out of 5748733
+ 6444 strings out of 474222
+ 110702 string characters out of 5748733
  1928975 words of memory out of 5000000
- 28537 multiletter control sequences out of 15000+600000
- 566093 words of font info for 47 fonts, out of 8000000 for 9000
+ 28566 multiletter control sequences out of 15000+600000
+ 570440 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  69i,7n,79p,1081b,406s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf/fonts/type1/public/cm-super/sfbx1095.pfb></usr/share/texmf/
@@ -381,10 +391,10 @@ m-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1728.pfb
 ></usr/share/texmf/fonts/type1/public/cm-super/sfbx2488.pfb></usr/share/texmf/f
 onts/type1/public/cm-super/sfrm1095.pfb></usr/share/texmf/fonts/type1/public/cm
 -super/sfrm1200.pfb>
-Output written on main.pdf (12 pages, 296936 bytes).
+Output written on main.pdf (13 pages, 299966 bytes).
 PDF statistics:
- 84 PDF objects out of 1000 (max. 8388607)
- 51 compressed objects within 1 object stream
+ 88 PDF objects out of 1000 (max. 8388607)
+ 54 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 

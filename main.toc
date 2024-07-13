@@ -9,3 +9,5 @@
 \contentsline {subsubsection}{\numberline {1.5.1.1}Residential unit types}{10}{}%
 \contentsline {subsection}{\numberline {1.5.2}Component technology.}{10}{}%
 \contentsline {subsection}{\numberline {1.5.3}Simulation and optimisation}{11}{}%
+\contentsline {subsubsection}{\numberline {1.5.3.1}Software parameters required for load shedding regulation include:}{11}{}%
+\contentsline {subsection}{\numberline {1.5.4}Implementation}{12}{}%

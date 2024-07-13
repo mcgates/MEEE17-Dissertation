@@ -54,4 +54,14 @@ The primary objective of this study is to test the energy management system algo
 
 \subsection{Simulation and optimisation}
 The performance of the designed DC microgrid is modeled and simulated using Matlab/Simulink software. The simulation results are utilized to optimize system configurations, control strategies, and component sizing. This process aids in identifying potential improvements, evaluating system resilience, and validating the design.
+\subsubsection{Software parameters required for load shedding regulation include:}
+\begin{enumerate}
+	\item Defining Load Sizes: Since each household may have different loads connected to the system, and considering the limited grid energy, an algorithm will be developed to determine the allowable power consumption for each household based on their contribution.
+	\item State-of-Charge (SoC): SoC is a crucial parameter describing the remaining capacity of a battery. It is essential to monitor SoC during battery discharge to ensure efficient energy management.
+	\item PV Irradiance Input: Irradiance levels vary with weather and day/night conditions. This parameter provides information about the available solar energy that can be used to charge the batteries.
+	\item Connecting and Disconnecting of Loads: The system must be able to detect and react to changes, recalculating load shedding when significant loads are connected or disconnected.
+\end{enumerate}
+\subsection{Implementation}
+A DC MG test bed will be constructed as described, incorporating key components such as DERs, energy storage systems, power converters, and control systems.
+
 
