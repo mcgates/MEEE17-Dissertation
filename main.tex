@@ -1,19 +1,31 @@
-\documentclass[english,12pt,a4paper, showtrims]{report}
-\usepackage[left=1.5cm, right=2cm]{geometry}
-\renewcommand{\baselinestretch}{1.5} 
+\documentclass[english,12pt,a4paper]{report}
+\usepackage[left=30mm, right=25mm,top=25mm,bottom=25mm]{geometry}
+\usepackage[nodisplayskipstretch]{setspace}
+\setstretch{1.6}
+\setcounter{secnumdepth}{5} % seting level of numbering 
 \usepackage[T1]{fontenc}
 \usepackage{graphicx}
 \usepackage{amssymb}
 \usepackage{nameref}
 \usepackage{babel}
+\usepackage{float}
+\usepackage{enumitem}
+\usepackage{fancyhdr} 
+%\pagestyle{fancy} 
+\renewcommand\labelenumi{(\theenumi)}
+\usepackage[font=small,labelfont=bf]{caption}
+
 
 \begin{document}
-	%\setlength\parindent{0pt}
 	\include{TitlePage}
-	\include{Declaration}
-	\include{Acknowledgement}
-	\include{Abstract}
-\chapter{Introduction}
-	\input{Introduction}
+	\include{Contents/Acknowledgement}	
+	\include{Contents/Abstract}	
+	\include{Contents/table of contents}
+	\include{Contents/list of tables}
+	\include{Contents/list of figures}
+	\include{Contents/glossary}
 	
+\chapter{Introduction}
+	\input{Chapter 1/Introduction}
+		
 \end{document}
