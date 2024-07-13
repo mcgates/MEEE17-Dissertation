@@ -1,0 +1,638 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.7.10)  13 JUL 2024 04:13
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**TitlePage.tex
+(./TitlePage.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+
+! LaTeX Error: Environment titlepage undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \begin{titlepage}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.5 		{\Large
+              \textbf{Modeling, Analysis, and Implementation of a DC micro g...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...f a DC micro grid Energy Management System}
+                                                  	}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (50.3678pt too wide) in paragraph at lines 5--7
+ []\OT1/cmr/bx/n/10 Modeling, 
+ []
+
+
+Overfull \hbox (27.70122pt too wide) in paragraph at lines 5--7
+ \OT1/cmr/bx/n/10 Anal- 
+ []
+
+
+Overfull \hbox (9.90273pt too wide) in paragraph at lines 5--7
+ \OT1/cmr/bx/n/10 y- 
+ []
+
+
+Overfull \hbox (15.461pt too wide) in paragraph at lines 5--7
+ \OT1/cmr/bx/n/10 sis, 
+ []
+
+
+Overfull \hbox (18.36794pt too wide) in paragraph at lines 5--7
+ \OT1/cmr/bx/n/10 and 
+ []
+
+
+Overfull \hbox (17.77768pt too wide) in paragraph at lines 5--7
+ \OT1/cmr/bx/n/10 Im- 
+ []
+
+
+Overfull \hbox (18.68741pt too wide) in paragraph at lines 5--7
+ \OT1/cmr/bx/n/10 ple- 
+ []
+
+
+Overfull \hbox (25.07626pt too wide) in paragraph at lines 5--7
+ \OT1/cmr/bx/n/10 men- 
+ []
+
+
+Overfull \hbox (13.89574pt too wide) in paragraph at lines 5--7
+ \OT1/cmr/bx/n/10 ta- 
+ []
+
+
+Overfull \hbox (19.80545pt too wide) in paragraph at lines 5--7
+ \OT1/cmr/bx/n/10 tion 
+ []
+
+
+Overfull \hbox (9.26384pt too wide) in paragraph at lines 5--7
+ \OT1/cmr/bx/n/10 of 
+ []
+
+
+Overfull \hbox (5.59023pt too wide) in paragraph at lines 5--7
+ \OT1/cmr/bx/n/10 a 
+ []
+
+
+Overfull \hbox (17.12491pt too wide) in paragraph at lines 5--7
+ \OT1/cmr/bx/n/10 DC 
+ []
+
+
+Overfull \hbox (16.61102pt too wide) in paragraph at lines 5--7
+ \OT1/cmr/bx/n/10 mi- 
+ []
+
+
+Overfull \hbox (15.59715pt too wide) in paragraph at lines 5--7
+ \OT1/cmr/bx/n/10 cro 
+ []
+
+
+Overfull \hbox (20.06935pt too wide) in paragraph at lines 5--7
+ \OT1/cmr/bx/n/10 grid 
+ []
+
+
+Overfull \hbox (17.77768pt too wide) in paragraph at lines 5--7
+ \OT1/cmr/bx/n/10 En- 
+ []
+
+
+Overfull \hbox (21.8263pt too wide) in paragraph at lines 5--7
+ \OT1/cmr/bx/n/10 ergy 
+ []
+
+
+Overfull \hbox (26.729pt too wide) in paragraph at lines 5--7
+ \OT1/cmr/bx/n/10 Man- 
+ []
+
+
+Overfull \hbox (20.44432pt too wide) in paragraph at lines 5--7
+ \OT1/cmr/bx/n/10 age- 
+ []
+
+
+Overfull \hbox (25.3957pt too wide) in paragraph at lines 5--7
+ \OT1/cmr/bx/n/10 ment 
+ []
+
+
+Overfull \hbox (20.82765pt too wide) in paragraph at lines 5--7
+ \OT1/cmr/bx/n/10 Sys- 
+ []
+
+
+Overfull \hbox (19.3263pt too wide) in paragraph at lines 5--7
+ \OT1/cmr/bx/n/10 tem 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 		\\B
+         y\\	
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no B in font nullfont!
+Missing character: There is no y in font nullfont!
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 		\textbf{Fannie Isaac Masango\\}
+                                     
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (33.11092pt too wide) in paragraph at lines 9--9
+ []\OT1/cmr/bx/n/10 Fannie 
+ []
+
+
+Overfull \hbox (25.18869pt too wide) in paragraph at lines 9--9
+ \OT1/cmr/bx/n/10 Isaac 
+ []
+
+
+Overfull \hbox (44.52193pt too wide) in paragraph at lines 9--9
+ \OT1/cmr/bx/n/10 Masango 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 		S
+        ubmitted in partial fulfillment of the requirement for degree\\
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no S in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no q in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 ...f Engineering in Electrical Engineering\\}
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (35.52202pt too wide) in paragraph at lines 12--12
+ []\OT1/cmr/bx/n/10 Master 
+ []
+
+
+Overfull \hbox (9.26384pt too wide) in paragraph at lines 12--12
+ \OT1/cmr/bx/n/10 of 
+ []
+
+
+Overfull \hbox (17.77768pt too wide) in paragraph at lines 12--12
+ \OT1/cmr/bx/n/10 En- 
+ []
+
+
+Overfull \hbox (12.77771pt too wide) in paragraph at lines 12--12
+ \OT1/cmr/bx/n/10 gi- 
+ []
+
+
+Overfull \hbox (25.4999pt too wide) in paragraph at lines 12--12
+ \OT1/cmr/bx/n/10 neer- 
+ []
+
+
+Overfull \hbox (15.33325pt too wide) in paragraph at lines 12--12
+ \OT1/cmr/bx/n/10 ing 
+ []
+
+
+Overfull \hbox (9.58328pt too wide) in paragraph at lines 12--12
+ \OT1/cmr/bx/n/10 in 
+ []
+
+
+Overfull \hbox (24.96515pt too wide) in paragraph at lines 12--12
+ \OT1/cmr/bx/n/10 Elec- 
+ []
+
+
+Overfull \hbox (16.23604pt too wide) in paragraph at lines 12--12
+ \OT1/cmr/bx/n/10 tri- 
+ []
+
+
+Overfull \hbox (13.89574pt too wide) in paragraph at lines 12--12
+ \OT1/cmr/bx/n/10 cal 
+ []
+
+
+Overfull \hbox (17.77768pt too wide) in paragraph at lines 12--12
+ \OT1/cmr/bx/n/10 En- 
+ []
+
+
+Overfull \hbox (12.77771pt too wide) in paragraph at lines 12--12
+ \OT1/cmr/bx/n/10 gi- 
+ []
+
+
+Overfull \hbox (25.4999pt too wide) in paragraph at lines 12--12
+ \OT1/cmr/bx/n/10 neer- 
+ []
+
+
+Overfull \hbox (15.33325pt too wide) in paragraph at lines 12--12
+ \OT1/cmr/bx/n/10 ing 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 		i
+        n the\\	
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 		D
+        epartment of Electrical Engineering\\
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no D in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 		F
+        ACULTY OF ENGINEERING AND THE BUILT ENVIRONMENT\\	
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no F in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no U in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no Y in font nullfont!
+Missing character: There is no O in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no G in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no G in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no B in font nullfont!
+Missing character: There is no U in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no V in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no O in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no T in font nullfont!
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 		\textbf{Tshwane University of Technology\\}
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (43.8414pt too wide) in paragraph at lines 18--18
+ []\OT1/cmr/bx/n/10 Tshwane 
+ []
+
+
+Overfull \hbox (22.26376pt too wide) in paragraph at lines 18--18
+ \OT1/cmr/bx/n/10 Uni- 
+ []
+
+
+Overfull \hbox (19.5902pt too wide) in paragraph at lines 18--18
+ \OT1/cmr/bx/n/10 ver- 
+ []
+
+
+Overfull \hbox (17.95267pt too wide) in paragraph at lines 18--18
+ \OT1/cmr/bx/n/10 sity 
+ []
+
+
+Overfull \hbox (9.26384pt too wide) in paragraph at lines 18--18
+ \OT1/cmr/bx/n/10 of 
+ []
+
+
+Overfull \hbox (27.32625pt too wide) in paragraph at lines 18--18
+ \OT1/cmr/bx/n/10 Tech- 
+ []
+
+
+Overfull \hbox (19.16656pt too wide) in paragraph at lines 18--18
+ \OT1/cmr/bx/n/10 nol- 
+ []
+
+
+Overfull \hbox (17.56935pt too wide) in paragraph at lines 18--18
+ \OT1/cmr/bx/n/10 ogy 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 		S
+        upervisor: Prof. J.A. Jordaan\\
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no S in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no J in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no J in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.21 		C
+        o-Supervisor: Dr A F Nnachi\\
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no C in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 		J
+        uly 2024
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no J in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+
+! LaTeX Error: \begin{document} ended by \end{titlepage}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24 \end{titlepage}
+                     		%End of title page
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+)
+! Emergency stop.
+<*> TitlePage.tex
+                 
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 22 strings out of 474222
+ 497 string characters out of 5748733
+ 1924975 words of memory out of 5000000
+ 22375 multiletter control sequences out of 15000+600000
+ 558377 words of font info for 37 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 18i,1n,21p,161b,98s stack positions out of 10000i,1000n,20000p,200000b,200000s
+!  ==> Fatal error occurred, no output PDF file produced!
