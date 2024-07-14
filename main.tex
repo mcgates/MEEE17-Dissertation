@@ -2,7 +2,7 @@
 \usepackage[left=30mm, right=25mm,top=25mm,bottom=25mm]{geometry}
 \usepackage[nodisplayskipstretch]{setspace}
 \setstretch{1.6}
-\setcounter{secnumdepth}{5} % seting level of numbering 
+\setcounter{secnumdepth}{4} % seting level of numbering 
 \usepackage[T1]{fontenc}
 \usepackage{graphicx}
 \usepackage{amssymb}
@@ -11,6 +11,10 @@
 \usepackage{float}
 \usepackage{enumitem}
 \usepackage{fancyhdr} 
+\usepackage{csquotes}
+\usepackage{biblatex}
+\addbibresource{Bibliography.bib}
+
 %\pagestyle{fancy} 
 \renewcommand\labelenumi{(\theenumi)}
 \usepackage[font=small,labelfont=bf]{caption}
@@ -20,12 +24,21 @@
 	\include{TitlePage}
 	\include{Contents/Acknowledgement}	
 	\include{Contents/Abstract}	
+	\include{Contents/Nomclemature}
 	\include{Contents/table of contents}
 	\include{Contents/list of tables}
 	\include{Contents/list of figures}
-	\include{Contents/glossary}
+	\include{Contents/Nomclemature}
 	
 \chapter{Introduction}
 	\input{Chapter 1/Introduction}
-		
+\chapter{Literature Review}
+	\input{Chapter 2/Literature review}
+\chapter{Theoretical considerations}
+	\input{Chapter 3/Theoretical considerations}
+\chapter{Methods and materials}
+	\input{Chapter 4/Methods and materials}
+\chapter{Conclusion}
+	\input{Chapter 5/Conclusion}	
+	\printbibliography[title={References}]		
 \end{document}

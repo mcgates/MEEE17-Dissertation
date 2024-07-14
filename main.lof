@@ -1,4 +1,67 @@
 \babel@toc {english}{}\relax 
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {1.1}{\ignorespaces DC nano grid}}{7}{}%
-\contentsline {figure}{\numberline {1.2}{\ignorespaces esidential unit operation modes. (Mode 1) distributed generation and Energy storage. (Mode 2) energy storage only.}}{10}{}%
+\contentsline {figure}{\numberline {1.1}{\ignorespaces DC nano grid}}{13}{}%
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Residential unit operation modes.}}{16}{}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces A Matlab/Simulink model of a PV cell}}{20}{}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Uni-polar grid}}{23}{}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Bi-polar grid}}{24}{}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces DC voltage-current characteristic line}}{27}{}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Centralised multi-agent coordination}}{29}{}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces De-centralized multi-agent co-ordination}}{29}{}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces DC MG Systems of Systems}}{31}{}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Operating mode 1 strategy}}{35}{}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Operating mode 2 strategy}}{36}{}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Operating mode 3 strategy}}{37}{}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Operating mode 4 strategy}}{38}{}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Residential unit operation modes.}}{40}{}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Photo Voltaic Generation Irradiance and Temperature 8/16/2020\blx@tocontentsinit {0}\cite {41}}}{42}{}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Battery Storage System}}{43}{}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Load demand: Profile 1}}{44}{}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Load demand: Profile 2}}{44}{}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Load demand: Profile 3}}{45}{}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Load demand: Profile 4}}{45}{}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Load profile waveform selector}}{46}{}%
+\contentsline {figure}{\numberline {4.9}{\ignorespaces REMCS unit Matlab overview}}{46}{}%
+\contentsline {figure}{\numberline {4.10}{\ignorespaces REMCS nano grid}}{47}{}%
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Loads control circuit}}{47}{}%
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Load demand block}}{48}{}%
+\contentsline {figure}{\numberline {4.13}{\ignorespaces State chart block}}{49}{}%
+\contentsline {figure}{\numberline {4.14}{\ignorespaces Running on battery}}{50}{}%
+\contentsline {figure}{\numberline {4.15}{\ignorespaces Power Sharing}}{51}{}%
+\contentsline {figure}{\numberline {4.16}{\ignorespaces Supply capacity with EMS v load demand}}{52}{}%
+\contentsline {figure}{\numberline {4.17}{\ignorespaces non-EMS Supply capacity with v load demand}}{53}{}%
+\contentsline {figure}{\numberline {4.18}{\ignorespaces Local Storage SoC EMS v non-EMS system}}{54}{}%
+\contentsline {figure}{\numberline {4.19}{\ignorespaces Solar Farm Storage SoC EMS v non-EMS system}}{55}{}%
+\contentsline {figure}{\numberline {4.20}{\ignorespaces Supply capacity EMS v Load demand}}{55}{}%
+\contentsline {figure}{\numberline {4.21}{\ignorespaces Non-EMS Supply capacity v Load demand}}{56}{}%
+\contentsline {figure}{\numberline {4.22}{\ignorespaces Local Storage SoC EMS v non-EMS}}{57}{}%
+\contentsline {figure}{\numberline {4.23}{\ignorespaces Solar Farm Storage SoC EMS v non-EMS}}{57}{}%
+\contentsline {figure}{\numberline {4.24}{\ignorespaces EMS Supply capacity v load demand}}{58}{}%
+\contentsline {figure}{\numberline {4.25}{\ignorespaces Non-EMS Supply capacity v load demand}}{59}{}%
+\contentsline {figure}{\numberline {4.26}{\ignorespaces Solar Farm SoC EMS v non-EMS}}{59}{}%
+\contentsline {figure}{\numberline {4.27}{\ignorespaces Local SoC and state transition}}{60}{}%
+\contentsline {figure}{\numberline {4.28}{\ignorespaces EMS Supply capacity v load demand}}{60}{}%
+\contentsline {figure}{\numberline {4.29}{\ignorespaces Non-EMS Supply capacity v load demand}}{61}{}%
+\contentsline {figure}{\numberline {4.30}{\ignorespaces EMS supply capacity and state transition}}{61}{}%
+\contentsline {figure}{\numberline {4.31}{\ignorespaces EMS Supply capacity v load demand}}{62}{}%
+\contentsline {figure}{\numberline {4.32}{\ignorespaces EMS Supply capacity v load demand}}{63}{}%
+\contentsline {figure}{\numberline {4.33}{\ignorespaces Non-EMS Supply capacity v load demand}}{63}{}%
+\contentsline {figure}{\numberline {4.34}{\ignorespaces Local storage SoC EMS v non-EMS}}{64}{}%
+\contentsline {figure}{\numberline {4.35}{\ignorespaces EMS Supply capacity v load demand}}{64}{}%
+\contentsline {figure}{\numberline {4.36}{\ignorespaces Non-EMS Supply capacity v load demand}}{65}{}%
+\contentsline {figure}{\numberline {4.37}{\ignorespaces Local storage SoC EMS v non-EMS}}{65}{}%
+\contentsline {figure}{\numberline {4.38}{\ignorespaces Local storage SoC EMS v non-EMS}}{66}{}%
+\contentsline {figure}{\numberline {4.39}{\ignorespaces Solar Farm SoC EMS v non-EMS}}{66}{}%
+\contentsline {figure}{\numberline {4.40}{\ignorespaces EMS Supply capacity v load demand}}{67}{}%
+\contentsline {figure}{\numberline {4.41}{\ignorespaces non-EMS Supply capacity v load demand}}{68}{}%
+\contentsline {figure}{\numberline {4.42}{\ignorespaces Lab setup of four units DC microgrid}}{68}{}%
+\contentsline {figure}{\numberline {4.43}{\ignorespaces Unit 1 5-day Supply v Load Demand}}{69}{}%
+\contentsline {figure}{\numberline {4.44}{\ignorespaces Five-day Solar farm SoC v Operation state.}}{70}{}%
+\contentsline {figure}{\numberline {4.45}{\ignorespaces Unit 2 Supply Capacity v Load Demand.}}{71}{}%
+\contentsline {figure}{\numberline {4.46}{\ignorespaces Unit 2 Solar Farm v local storage SoC}}{71}{}%
+\contentsline {figure}{\numberline {4.47}{\ignorespaces Unit 3 Supply Capacity v Load Demand}}{72}{}%
+\contentsline {figure}{\numberline {4.48}{\ignorespaces Unit 4 Supply Capacity v Load Demand}}{73}{}%
+\addvspace {10\p@ }

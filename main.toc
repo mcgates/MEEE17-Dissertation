@@ -1,13 +1,81 @@
 \babel@toc {english}{}\relax 
-\contentsline {chapter}{\numberline {1}Introduction}{6}{}%
-\contentsline {section}{\numberline {1.1}Statement of research problem}{6}{}%
-\contentsline {section}{\numberline {1.2}Background to the research problem}{7}{}%
-\contentsline {section}{\numberline {1.3}Objectives of the research problem}{8}{}%
-\contentsline {section}{\numberline {1.4}Delimitation of study}{8}{}%
-\contentsline {section}{\numberline {1.5}Research Methodology}{9}{}%
-\contentsline {subsection}{\numberline {1.5.1}Research Design}{9}{}%
-\contentsline {subsubsection}{\numberline {1.5.1.1}Residential unit types}{10}{}%
-\contentsline {subsection}{\numberline {1.5.2}Component technology.}{10}{}%
-\contentsline {subsection}{\numberline {1.5.3}Simulation and optimisation}{11}{}%
-\contentsline {subsubsection}{\numberline {1.5.3.1}Software parameters required for load shedding regulation include:}{11}{}%
-\contentsline {subsection}{\numberline {1.5.4}Implementation}{12}{}%
+\contentsline {chapter}{\numberline {1}Introduction}{12}{}%
+\contentsline {section}{\numberline {1.1}Statement of research problem}{12}{}%
+\contentsline {section}{\numberline {1.2}Background to the research problem}{13}{}%
+\contentsline {section}{\numberline {1.3}Objectives of the research problem}{14}{}%
+\contentsline {section}{\numberline {1.4}Delimitation of study}{14}{}%
+\contentsline {section}{\numberline {1.5}Research Methodology}{15}{}%
+\contentsline {subsection}{\numberline {1.5.1}Research Design}{15}{}%
+\contentsline {subsubsection}{\numberline {1.5.1.1}Residential unit types}{15}{}%
+\contentsline {subsection}{\numberline {1.5.2}Component technology.}{16}{}%
+\contentsline {subsection}{\numberline {1.5.3}Simulation and optimisation}{17}{}%
+\contentsline {subsubsection}{\numberline {1.5.3.1}Software parameters required for load shedding regulation include:}{17}{}%
+\contentsline {subsection}{\numberline {1.5.4}Implementation}{17}{}%
+\contentsline {chapter}{\numberline {2}Literature Review}{18}{}%
+\contentsline {section}{\numberline {2.1}Introduction}{18}{}%
+\contentsline {section}{\numberline {2.2}Generation Technologies}{18}{}%
+\contentsline {subsection}{\numberline {2.2.1}DC and AC generation}{19}{}%
+\contentsline {subsection}{\numberline {2.2.2}DC Generation Technologies}{19}{}%
+\contentsline {subsubsection}{\numberline {2.2.2.1}Photovoltaic Panel}{20}{}%
+\contentsline {subsubsection}{\numberline {2.2.2.2}Poly-crystalline Panel}{21}{}%
+\contentsline {subsubsection}{\numberline {2.2.2.3}Mono-crystalline Panel}{21}{}%
+\contentsline {subsubsection}{\numberline {2.2.2.4}Thin-film Panel}{21}{}%
+\contentsline {subsubsection}{\numberline {2.2.2.5}Thermoelectric generators (TEGs)}{22}{}%
+\contentsline {subsubsection}{\numberline {2.2.2.6}Wind Turbine}{22}{}%
+\contentsline {section}{\numberline {2.3}DC Distribution}{22}{}%
+\contentsline {section}{\numberline {2.4}Energy Storage Technologies.}{24}{}%
+\contentsline {subsection}{\numberline {2.4.1}Electromechanical Storage}{25}{}%
+\contentsline {subsection}{\numberline {2.4.2}Hydrogen Energy Storage (HES)}{25}{}%
+\contentsline {subsection}{\numberline {2.4.3}Mechanical Storage}{26}{}%
+\contentsline {subsection}{\numberline {2.4.4}Mechanical Storage}{26}{}%
+\contentsline {subsection}{\numberline {2.4.5}Thermal Energy Storage (TES)}{26}{}%
+\contentsline {section}{\numberline {2.5}Operational Strategies for DC Microgrids}{26}{}%
+\contentsline {subsection}{\numberline {2.5.1}Constant-current control}{27}{}%
+\contentsline {subsection}{\numberline {2.5.2}Constant-voltage control}{27}{}%
+\contentsline {subsection}{\numberline {2.5.3}Droop control}{27}{}%
+\contentsline {section}{\numberline {2.6}Operational Strategies for DC Microgrids}{28}{}%
+\contentsline {section}{\numberline {2.7}EMS-integrated DC MG}{28}{}%
+\contentsline {section}{\numberline {2.8}Multi-level approach}{28}{}%
+\contentsline {section}{\numberline {2.9}Proposed study}{29}{}%
+\contentsline {subsection}{\numberline {2.9.1}Introduction}{30}{}%
+\contentsline {subsection}{\numberline {2.9.2}Modelling the microgrid for the EMS using SoSs}{30}{}%
+\contentsline {section}{\numberline {2.10}Conclusion}{31}{}%
+\contentsline {chapter}{\numberline {3}Theoretical considerations}{32}{}%
+\contentsline {section}{\numberline {3.1}Introduction}{32}{}%
+\contentsline {section}{\numberline {3.2}Feasibility study and planning}{32}{}%
+\contentsline {section}{\numberline {3.3}Resource Assessment and Design}{33}{}%
+\contentsline {subsection}{\numberline {3.3.1}Battery Energy Storage System}{33}{}%
+\contentsline {subsection}{\numberline {3.3.2}Power Balancing and Control}{34}{}%
+\contentsline {subsection}{\numberline {3.3.3}Energy Management System}{35}{}%
+\contentsline {section}{\numberline {3.4}Conclusion}{38}{}%
+\contentsline {chapter}{\numberline {4}Methods and materials}{39}{}%
+\contentsline {section}{\numberline {4.1}Methods and materials}{39}{}%
+\contentsline {subsection}{\numberline {4.1.1}Introduction}{39}{}%
+\contentsline {subsection}{\numberline {4.1.2}Microgrid configuration}{39}{}%
+\contentsline {subsection}{\numberline {4.1.3}Scenarios for diverse inputs}{40}{}%
+\contentsline {section}{\numberline {4.2}Matlab Simulink Model}{41}{}%
+\contentsline {section}{\numberline {4.3}Validation and Verification}{41}{}%
+\contentsline {section}{\numberline {4.4}Microgrid Formation}{41}{}%
+\contentsline {subsection}{\numberline {4.4.1}Photo Voltaic Solar Panels}{41}{}%
+\contentsline {subsection}{\numberline {4.4.2}Load Profile}{43}{}%
+\contentsline {section}{\numberline {4.5}REMCS Design Logic }{48}{}%
+\contentsline {subsection}{\numberline {4.5.1}State Observer}{48}{}%
+\contentsline {subsubsection}{\numberline {4.5.1.1}Running on Battery State}{49}{}%
+\contentsline {subsubsection}{\numberline {4.5.1.2}Charging State}{50}{}%
+\contentsline {subsubsection}{\numberline {4.5.1.3}Power Share State}{50}{}%
+\contentsline {section}{\numberline {4.6}Model parameters}{51}{}%
+\contentsline {subsection}{\numberline {4.6.1}Case study 1}{52}{}%
+\contentsline {subsection}{\numberline {4.6.2}Case Study 2}{57}{}%
+\contentsline {subsection}{\numberline {4.6.3}Case Study 3}{62}{}%
+\contentsline {subsection}{\numberline {4.6.4}Case Study 4}{67}{}%
+\contentsline {section}{\numberline {4.7}Lab-Developed Working System Setup}{68}{}%
+\contentsline {subsection}{\numberline {4.7.1}Lab results - Unit 2}{70}{}%
+\contentsline {subsection}{\numberline {4.7.2}Lab results - Unit 3}{71}{}%
+\contentsline {subsection}{\numberline {4.7.3}Lab results - Unit 4}{72}{}%
+\contentsline {chapter}{\numberline {5}Conclusion}{74}{}%
+\contentsline {section}{\numberline {5.1}Key findings}{74}{}%
+\contentsline {subsection}{\numberline {5.1.1}Efficiency in Energy Utilisation}{74}{}%
+\contentsline {subsection}{\numberline {5.1.2}Power Sharing}{74}{}%
+\contentsline {subsection}{\numberline {5.1.3}Grid Dependence and Battery Capacity}{75}{}%
+\contentsline {subsection}{\numberline {5.1.4}Comparative analysis of Supply and Demand}{75}{}%
+\contentsline {section}{\numberline {5.2}references}{75}{}%

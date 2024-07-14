@@ -1,0 +1,1513 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{24}{proceedings}{}
+      \name{editor}{6}{}{%
+        {{hash=2126efdba16401926d676ee8d096342f}{%
+           family={A.A},
+           familyi={A\bibinitperiod},
+           given={Mohamed},
+           giveni={M\bibinitperiod}}}%
+        {{hash=4468951861fdda8aa101a700d92e9645}{%
+           family={Rashed},
+           familyi={R\bibinitperiod},
+           given={Mohamed},
+           giveni={M\bibinitperiod}}}%
+        {{hash=38fd65f7d2fd8f3ecc1fbcd35f69651c}{%
+           family={Lang},
+           familyi={L\bibinitperiod},
+           given={Xiaoyu},
+           giveni={X\bibinitperiod}}}%
+        {{hash=4fc18a04d8f85ae4d790473b5892048d}{%
+           family={Atkin},
+           familyi={A\bibinitperiod},
+           given={Jason},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c313bf2f2ad19c8f9308c1c11d9a2f3c}{%
+           family={Yeoh},
+           familyi={Y\bibinitperiod},
+           given={Seang},
+           giveni={S\bibinitperiod}}}%
+        {{hash=4c14400b1349e34a00dd3a8a9dd5b0b3}{%
+           family={Bozhko},
+           familyi={B\bibinitperiod},
+           given={Serhiy},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{8d63d0f158545739d5d718d62c22e917}
+      \strng{fullhash}{5fa7a2e6c314047bd3fa762a1c446d4e}
+      \strng{bibnamehash}{8d63d0f158545739d5d718d62c22e917}
+      \strng{editorbibnamehash}{8d63d0f158545739d5d718d62c22e917}
+      \strng{editornamehash}{8d63d0f158545739d5d718d62c22e917}
+      \strng{editorfullhash}{5fa7a2e6c314047bd3fa762a1c446d4e}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Droop control design to minimize losses in DC microgrid for more electric aircraft}
+      \field{year}{2001}
+      \field{dateera}{ce}
+    \endentry
+    \entry{19}{article}{}
+      \name{author}{2}{}{%
+        {{hash=7cc020f72c263ee329ec73162df96a93}{%
+           family={Ami},
+           familyi={A\bibinitperiod},
+           given={Joseph.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=181f09b6e6ed41238f81c55087fdb979}{%
+           family={Shahidehpour},
+           familyi={S\bibinitperiod},
+           given={Mohammad.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{4e711566e94a488192e2d904e8b743a7}
+      \strng{fullhash}{4e711566e94a488192e2d904e8b743a7}
+      \strng{bibnamehash}{4e711566e94a488192e2d904e8b743a7}
+      \strng{authorbibnamehash}{4e711566e94a488192e2d904e8b743a7}
+      \strng{authornamehash}{4e711566e94a488192e2d904e8b743a7}
+      \strng{authorfullhash}{4e711566e94a488192e2d904e8b743a7}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{2006 IEEE Power Engineering Society General Meeting}
+      \field{title}{Battery storage systems in electric power systems}
+      \field{year}{2006}
+      \field{dateera}{ce}
+      \field{pages}{8\bibrangedash pp}
+      \range{pages}{-1}
+    \endentry
+    \entry{20}{proceedings}{}
+      \name{editor}{2}{}{%
+        {{hash=715a703f25dfb0dd75d3ffbac14b97c3}{%
+           family={Aneke},
+           familyi={A\bibinitperiod},
+           given={Mathew.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=6907037f3720d1587f17d88bf6d3dd3a}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Meihong.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{1024572f2fef87d4ef2326f01250b775}
+      \strng{fullhash}{1024572f2fef87d4ef2326f01250b775}
+      \strng{bibnamehash}{1024572f2fef87d4ef2326f01250b775}
+      \strng{editorbibnamehash}{1024572f2fef87d4ef2326f01250b775}
+      \strng{editornamehash}{1024572f2fef87d4ef2326f01250b775}
+      \strng{editorfullhash}{1024572f2fef87d4ef2326f01250b775}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Energy storage technologies and real life applications – A state of the art review}
+      \field{year}{2016}
+      \field{dateera}{ce}
+    \endentry
+    \entry{36}{proceedings}{}
+      \name{editor}{1}{}{%
+        {{hash=2b5bd770865537fe69a923be2d695334}{%
+           family={Arno},
+           familyi={A\bibinitperiod},
+           given={Vosloo.},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{2b5bd770865537fe69a923be2d695334}
+      \strng{fullhash}{2b5bd770865537fe69a923be2d695334}
+      \strng{bibnamehash}{2b5bd770865537fe69a923be2d695334}
+      \strng{editorbibnamehash}{2b5bd770865537fe69a923be2d695334}
+      \strng{editornamehash}{2b5bd770865537fe69a923be2d695334}
+      \strng{editorfullhash}{2b5bd770865537fe69a923be2d695334}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Agent-Based Energy Management Systems for The Remote community microgrid}
+      \field{year}{2015}
+      \field{dateera}{ce}
+    \endentry
+    \entry{10}{article}{}
+      \name{author}{6}{}{%
+        {{hash=2cbc964b922fcfe62e5ccbe893a4ee20}{%
+           family={Ayadia},
+           familyi={A\bibinitperiod},
+           given={Osama},
+           giveni={O\bibinitperiod}}}%
+        {{hash=18a702415ed6a677bd70e849b8564b7f}{%
+           family={Shadid},
+           familyi={S\bibinitperiod},
+           given={Reem},
+           giveni={R\bibinitperiod}}}%
+        {{hash=bef8369982a71addcfc92b4502294033}{%
+           family={Bani-Abdullah},
+           familyi={B\bibinithyphendelim A\bibinitperiod},
+           given={Abdullah},
+           giveni={A\bibinitperiod}}}%
+        {{hash=017b02e085d489d3bc397fa57021725f}{%
+           family={Alrbai},
+           familyi={A\bibinitperiod},
+           given={Mohammad},
+           giveni={M\bibinitperiod}}}%
+        {{hash=50bfe96b49d9fc4c70a642dc23bba807}{%
+           family={Abu-Mualla},
+           familyi={A\bibinithyphendelim M\bibinitperiod},
+           given={Mohammad},
+           giveni={M\bibinitperiod}}}%
+        {{hash=19189c08930fa8dc623ac553d8220d4a}{%
+           family={Balah},
+           familyi={B\bibinitperiod},
+           given={NoorAldeen},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{bd4aa7e2040dd4430949312ca90a92fe}
+      \strng{fullhash}{e1d6e14c8e6700fd051e482164ef73ab}
+      \strng{bibnamehash}{bd4aa7e2040dd4430949312ca90a92fe}
+      \strng{authorbibnamehash}{bd4aa7e2040dd4430949312ca90a92fe}
+      \strng{authornamehash}{bd4aa7e2040dd4430949312ca90a92fe}
+      \strng{authorfullhash}{e1d6e14c8e6700fd051e482164ef73ab}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Energy Reports}
+      \field{title}{Experimental comparison between Monocrystalline, Polycrystalline, and Thin-film solar systems under sunny climatic conditions}
+      \field{volume}{8}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{pages}{218\bibrangedash 230}
+      \range{pages}{13}
+    \endentry
+    \entry{23}{article}{}
+      \name{author}{2}{}{%
+        {{hash=4f42a114902b4e1d03b9f7c72caf33ad}{%
+           family={B},
+           familyi={B\bibinitperiod},
+           given={Nordman.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=83b91affe63454d09beae4d00fe1063e}{%
+           family={K},
+           familyi={K\bibinitperiod},
+           given={Christensen.},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{f33731d594abfa314c55ee055c0ffdf8}
+      \strng{fullhash}{f33731d594abfa314c55ee055c0ffdf8}
+      \strng{bibnamehash}{f33731d594abfa314c55ee055c0ffdf8}
+      \strng{authorbibnamehash}{f33731d594abfa314c55ee055c0ffdf8}
+      \strng{authornamehash}{f33731d594abfa314c55ee055c0ffdf8}
+      \strng{authorfullhash}{f33731d594abfa314c55ee055c0ffdf8}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{2}
+      \field{journaltitle}{IEEE Electrification Magazine}
+      \field{title}{DC Local Power Distribution: Technology,Deployment, and Pathways to Success}
+      \field{volume}{4}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{pages}{29\bibrangedash 36}
+      \range{pages}{8}
+    \endentry
+    \entry{25}{article}{}
+      \name{author}{4}{}{%
+        {{hash=a5420fca5d3c11b6f8749c6794e752c6}{%
+           family={Bastos},
+           familyi={B\bibinitperiod},
+           given={Renan\bibnamedelima F.},
+           giveni={R\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=bf442927ed7809339976d96cfa6fc81e}{%
+           family={Aguiar},
+           familyi={A\bibinitperiod},
+           given={Cassius\bibnamedelima R.},
+           giveni={C\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=fc1876c3ae9bac328c3996c598a3b7f7}{%
+           family={Sütő},
+           familyi={S\bibinitperiod},
+           given={Attila\bibnamedelimb Balogh.\bibnamedelimi Zoltán},
+           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim Z\bibinitperiod}}}%
+        {{hash=030df2576970748dbc149a15be816db3}{%
+           family={Machado},
+           familyi={M\bibinitperiod},
+           given={Ricardo\bibnamedelima Q.},
+           giveni={R\bibinitperiod\bibinitdelim Q\bibinitperiod}}}%
+      }
+      \strng{namehash}{c0aaeaa0eec94c8b1f2228869d092b8e}
+      \strng{fullhash}{d93130ff3002f4f94f47ad5847a5a466}
+      \strng{bibnamehash}{c0aaeaa0eec94c8b1f2228869d092b8e}
+      \strng{authorbibnamehash}{c0aaeaa0eec94c8b1f2228869d092b8e}
+      \strng{authornamehash}{c0aaeaa0eec94c8b1f2228869d092b8e}
+      \strng{authorfullhash}{d93130ff3002f4f94f47ad5847a5a466}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{107928}
+      \field{journaltitle}{Electrical Power and Energy Systems}
+      \field{title}{Power-sharing for dc microgrid with composite storage devices and voltage restoration without communication}
+      \field{volume}{138}
+      \field{year}{2022}
+      \field{dateera}{ce}
+    \endentry
+    \entry{26}{proceedings}{}
+      \name{editor}{4}{}{%
+        {{hash=4d4787cef492b4605af2966d858ee66d}{%
+           family={Beus},
+           familyi={B\bibinitperiod},
+           given={Mateo},
+           giveni={M\bibinitperiod}}}%
+        {{hash=99b6cd5356789d06b4de0b1ea3a35e22}{%
+           family={Banis},
+           familyi={B\bibinitperiod},
+           given={Frederik},
+           giveni={F\bibinitperiod}}}%
+        {{hash=76ea23a3a892231c055a93581afe0d1f}{%
+           family={Pandžić},
+           familyi={P\bibinitperiod},
+           given={Hrvoje},
+           giveni={H\bibinitperiod}}}%
+        {{hash=1ae1c68389395d43ccf1e45b293abe97}{%
+           family={Poulsen},
+           familyi={P\bibinitperiod},
+           given={Niels\bibnamedelima Kjølstad},
+           giveni={N\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{5140a7ae055931dccb3fa5b1232fa974}
+      \strng{fullhash}{6c2a8abbb8e4044d5bf50d5f58803ed9}
+      \strng{bibnamehash}{5140a7ae055931dccb3fa5b1232fa974}
+      \strng{editorbibnamehash}{5140a7ae055931dccb3fa5b1232fa974}
+      \strng{editornamehash}{5140a7ae055931dccb3fa5b1232fa974}
+      \strng{editorfullhash}{6c2a8abbb8e4044d5bf50d5f58803ed9}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Three-level hierarchical microgrid control—model development and laboratory implementation}
+      \field{year}{2020}
+      \field{dateera}{ce}
+    \endentry
+    \entry{39}{article}{}
+      \name{author}{4}{}{%
+        {{hash=4733e94ada51fb8786624dd1a036a3df}{%
+           family={BR},
+           familyi={B\bibinitperiod},
+           given={Muhammad.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=e35769644f1b274add552b17a73c0990}{%
+           family={D.},
+           familyi={D\bibinitperiod},
+           given={María.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=29af16dbf899a543727cac8930b2ba22}{%
+           family={R-Moreno},
+           familyi={R\bibinithyphendelim M\bibinitperiod}}}%
+        {{hash=8284d97bb8ac7fb2edc00631b8e90932}{%
+           family={c},
+           familyi={c\bibinitperiod},
+           given={Kelum\bibnamedelimb A.A.\bibnamedelimi Gamage},
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \strng{namehash}{850e6cc028817a35905cb28d0db1002b}
+      \strng{fullhash}{fe67f4f5f8e198eb717971e056f596b0}
+      \strng{bibnamehash}{850e6cc028817a35905cb28d0db1002b}
+      \strng{authorbibnamehash}{850e6cc028817a35905cb28d0db1002b}
+      \strng{authornamehash}{850e6cc028817a35905cb28d0db1002b}
+      \strng{authorfullhash}{fe67f4f5f8e198eb717971e056f596b0}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Energy Reports}
+      \field{title}{Artificial intelligence-enabled probabilistic load demand scheduling with dynamic pricing involving renewable resource}
+      \field{volume}{8}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{pages}{14034\bibrangedash 14037}
+      \range{pages}{4}
+    \endentry
+    \entry{22}{proceedings}{}
+      \name{editor}{4}{}{%
+        {{hash=46bc12adf55b66404993136138d167c4}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Zhenghong},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=0b2ec67a0408cf143a71fac9e8f83318}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Kangda},
+           giveni={K\bibinitperiod}}}%
+        {{hash=10386d592fd114617a7fe4755ae139d4}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Zhengyuan},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=117d2351287468be42fda3cd5cc1f3d6}{%
+           family={Zheng},
+           familyi={Z\bibinitperiod},
+           given={Tao},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{1a26c0be7c149aaddd0262cfe478e6b9}
+      \strng{fullhash}{914e4c59514cf272575fbda19e2c2159}
+      \strng{bibnamehash}{1a26c0be7c149aaddd0262cfe478e6b9}
+      \strng{editorbibnamehash}{1a26c0be7c149aaddd0262cfe478e6b9}
+      \strng{editornamehash}{1a26c0be7c149aaddd0262cfe478e6b9}
+      \strng{editorfullhash}{914e4c59514cf272575fbda19e2c2159}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{A Review on Control Strategies of AC/DC Micro Grid}
+      \field{year}{2017}
+      \field{dateera}{ce}
+    \endentry
+    \entry{1}{article}{}
+      \name{author}{4}{}{%
+        {{hash=c2794609109eba537dfbbbd5dabfbfe0}{%
+           family={Daniel},
+           familyi={D\bibinitperiod},
+           given={Burmester.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=cc1ef238167f202dedd7101c9fd14cba}{%
+           family={Ramesh},
+           familyi={R\bibinitperiod},
+           given={Rayudu.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=905c668e2936338f7c5f08588c967e8e}{%
+           family={Winston},
+           familyi={W\bibinitperiod},
+           given={Seah.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=4266cc2c2789f85987000428191f8ff1}{%
+           family={Daniel},
+           familyi={D\bibinitperiod},
+           given={Akinyele.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{4c48a6a5dea272156683abb4e18aa83e}
+      \strng{fullhash}{dc97719b145ebb4801b48c6f4f90d365}
+      \strng{bibnamehash}{4c48a6a5dea272156683abb4e18aa83e}
+      \strng{authorbibnamehash}{4c48a6a5dea272156683abb4e18aa83e}
+      \strng{authornamehash}{4c48a6a5dea272156683abb4e18aa83e}
+      \strng{authorfullhash}{dc97719b145ebb4801b48c6f4f90d365}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{67}
+      \field{journaltitle}{Renewable and Sustainable Energy Reviews}
+      \field{title}{A Review of Nanogrid Topologies and Technologies}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{pages}{760\bibrangedash 775}
+      \range{pages}{16}
+    \endentry
+    \entry{2}{report}{}
+      \name{author}{1}{}{%
+        {{hash=8856ba6885c91953b64b8ab8f69e5af2}{%
+           family={E},
+           familyi={E\bibinitperiod},
+           given={Zubieta.\bibnamedelimi Luis},
+           giveni={Z\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{8856ba6885c91953b64b8ab8f69e5af2}
+      \strng{fullhash}{8856ba6885c91953b64b8ab8f69e5af2}
+      \strng{bibnamehash}{8856ba6885c91953b64b8ab8f69e5af2}
+      \strng{authorbibnamehash}{8856ba6885c91953b64b8ab8f69e5af2}
+      \strng{authornamehash}{8856ba6885c91953b64b8ab8f69e5af2}
+      \strng{authorfullhash}{8856ba6885c91953b64b8ab8f69e5af2}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ARDA Power Inc.}
+      \field{title}{Power Management and Optimization Concept for DC Microgrids}
+      \field{year}{2015}
+      \field{dateera}{ce}
+    \endentry
+    \entry{38}{proceedings}{}
+      \name{editor}{3}{}{%
+        {{hash=60347de151d94b0a611a7a49efbeab93}{%
+           family={Hou},
+           familyi={H\bibinitperiod},
+           given={Ligang.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=42a2d6f538335f18baee6dd08b66dedd}{%
+           family={Tang},
+           familyi={T\bibinitperiod},
+           given={Xianghua.},
+           giveni={X\bibinitperiod}}}%
+        {{hash=8eb4726e1d491967c9d3ba89d415d0e1}{%
+           family={Shi},
+           familyi={S\bibinitperiod},
+           given={Xiongjie.},
+           giveni={X\bibinitperiod}}}%
+      }
+      \strng{namehash}{93cb017729f3f6523b6694f49c51010d}
+      \strng{fullhash}{93cb017729f3f6523b6694f49c51010d}
+      \strng{bibnamehash}{93cb017729f3f6523b6694f49c51010d}
+      \strng{editorbibnamehash}{93cb017729f3f6523b6694f49c51010d}
+      \strng{editornamehash}{93cb017729f3f6523b6694f49c51010d}
+      \strng{editorfullhash}{93cb017729f3f6523b6694f49c51010d}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Research on Control Method of Energy Storage Interface for DC Micro-grid}
+      \field{year}{2019}
+      \field{dateera}{ce}
+    \endentry
+    \entry{33}{proceedings}{}
+      \name{editor}{1}{}{%
+        {{hash=3189863a319fbae393a7cca5e9c6a05e}{%
+           family={J.},
+           familyi={J\bibinitperiod},
+           given={Hammerstrom.\bibnamedelimi D.},
+           giveni={H\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{3189863a319fbae393a7cca5e9c6a05e}
+      \strng{fullhash}{3189863a319fbae393a7cca5e9c6a05e}
+      \strng{bibnamehash}{3189863a319fbae393a7cca5e9c6a05e}
+      \strng{editorbibnamehash}{3189863a319fbae393a7cca5e9c6a05e}
+      \strng{editornamehash}{3189863a319fbae393a7cca5e9c6a05e}
+      \strng{editorfullhash}{3189863a319fbae393a7cca5e9c6a05e}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{AC Versus DC Distribution SystemsDid We Get it Right?}
+      \field{year}{2007}
+      \field{dateera}{ce}
+    \endentry
+    \entry{29}{article}{}
+      \name{author}{1}{}{%
+        {{hash=3b29e1d6d8562639ca83e24d7a5a7215}{%
+           family={K},
+           familyi={K\bibinitperiod},
+           given={Andreadis.\bibnamedelimi G.\bibnamedelimi Bouzakis.\bibnamedelimi K.\bibnamedelimi D.\bibnamedelimi Klazoglou.\bibnamedelimi P.\bibnamedelimi Niwtaki.},
+           giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \strng{namehash}{3b29e1d6d8562639ca83e24d7a5a7215}
+      \strng{fullhash}{3b29e1d6d8562639ca83e24d7a5a7215}
+      \strng{bibnamehash}{3b29e1d6d8562639ca83e24d7a5a7215}
+      \strng{authorbibnamehash}{3b29e1d6d8562639ca83e24d7a5a7215}
+      \strng{authornamehash}{3b29e1d6d8562639ca83e24d7a5a7215}
+      \strng{authorfullhash}{3b29e1d6d8562639ca83e24d7a5a7215}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{2}
+      \field{journaltitle}{Universal Journal of Mechanical Engineering}
+      \field{title}{Review of Agent–Based Systems in the Manufacturing Section}
+      \field{volume}{2}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{pages}{55\bibrangedash 59}
+      \range{pages}{5}
+    \endentry
+    \entry{42}{article}{}
+      \name{author}{3}{}{%
+        {{hash=e1ee761745ebeb6e43e4e9893924d3d2}{%
+           family={K},
+           familyi={K\bibinitperiod},
+           given={Muhammad.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=881c88028c797e97e2e87f45d496e804}{%
+           family={muhammad},
+           familyi={m\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=30619928fcbee3ba4439f585d3ff05a4}{%
+           family={M},
+           familyi={M\bibinitperiod},
+           given={Muhammad.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{dfe35c5dc571eabbbc7b2c9f604bae6b}
+      \strng{fullhash}{dfe35c5dc571eabbbc7b2c9f604bae6b}
+      \strng{bibnamehash}{dfe35c5dc571eabbbc7b2c9f604bae6b}
+      \strng{authorbibnamehash}{dfe35c5dc571eabbbc7b2c9f604bae6b}
+      \strng{authornamehash}{dfe35c5dc571eabbbc7b2c9f604bae6b}
+      \strng{authorfullhash}{dfe35c5dc571eabbbc7b2c9f604bae6b}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{36}
+      \field{journaltitle}{Mehran University Research Journal of Engineering \& Technology}
+      \field{title}{DC Home Appliances for DC Distribution System}
+      \field{volume}{840}
+      \field{pages}{4}
+      \range{pages}{1}
+    \endentry
+    \entry{35}{proceedings}{}
+      \name{editor}{2}{}{%
+        {{hash=e8d28eb7d9e6c74b455c34dc8280af1f}{%
+           family={K.},
+           familyi={K\bibinitperiod},
+           given={Techakittiroj.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=e3803c129963d41420b03b26ec71ea52}{%
+           family={V.},
+           familyi={V\bibinitperiod},
+           given={Wongpaibool.},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{a2cb15c2bd1e31008ad66ade67b0c0b9}
+      \strng{fullhash}{a2cb15c2bd1e31008ad66ade67b0c0b9}
+      \strng{bibnamehash}{a2cb15c2bd1e31008ad66ade67b0c0b9}
+      \strng{editorbibnamehash}{a2cb15c2bd1e31008ad66ade67b0c0b9}
+      \strng{editornamehash}{a2cb15c2bd1e31008ad66ade67b0c0b9}
+      \strng{editorfullhash}{a2cb15c2bd1e31008ad66ade67b0c0b9}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Co-existance between AC-Distribution and DC-Distribution: In the View of Appliances}
+      \field{year}{2009}
+      \field{dateera}{ce}
+    \endentry
+    \entry{17}{article}{}
+      \name{author}{3}{}{%
+        {{hash=873f9585a6b2c1c210197e48ea3061f3}{%
+           family={K.K.},
+           familyi={K\bibinitperiod},
+           given={Nandini.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=bca6c2d5d0f6706676e75e960e8f8518}{%
+           family={N.S},
+           familyi={N\bibinitperiod},
+           given={Jayalakshmi.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=2dee1fac739d9899279a4ad1a4787549}{%
+           family={Jadoun},
+           familyi={J\bibinitperiod},
+           given={Vinay\bibnamedelima Kumar},
+           giveni={V\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{a913722e2a40ba7005f55f95caae4e54}
+      \strng{fullhash}{a913722e2a40ba7005f55f95caae4e54}
+      \strng{bibnamehash}{a913722e2a40ba7005f55f95caae4e54}
+      \strng{authorbibnamehash}{a913722e2a40ba7005f55f95caae4e54}
+      \strng{authornamehash}{a913722e2a40ba7005f55f95caae4e54}
+      \strng{authorfullhash}{a913722e2a40ba7005f55f95caae4e54}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{1}
+      \field{journaltitle}{Materials Today}
+      \field{title}{An overview of DC Microgrid with DC distribution system for DC load}
+      \field{volume}{51}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{pages}{635\bibrangedash 639}
+      \range{pages}{5}
+    \endentry
+    \entry{18}{article}{}
+      \name{author}{2}{}{%
+        {{hash=0c4fb2a07edec3d3d50e8887da11144d}{%
+           family={Katar},
+           familyi={K\bibinitperiod},
+           given={Cihan.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=333a49c3a99b3ba2dc75e8a2b08ff498}{%
+           family={Uzunoğlu},
+           familyi={U\bibinitperiod},
+           given={Cengiz.\bibnamedelimi Polat},
+           giveni={C\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{db2839dd10f19699a8ec144a5efb933f}
+      \strng{fullhash}{db2839dd10f19699a8ec144a5efb933f}
+      \strng{bibnamehash}{db2839dd10f19699a8ec144a5efb933f}
+      \strng{authorbibnamehash}{db2839dd10f19699a8ec144a5efb933f}
+      \strng{authornamehash}{db2839dd10f19699a8ec144a5efb933f}
+      \strng{authorfullhash}{db2839dd10f19699a8ec144a5efb933f}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{3}
+      \field{journaltitle}{International Journal of Applied Power Engineering (IJAPE)}
+      \field{title}{A comparative study on AC/DC analysis of an operational low voltage distribution system}
+      \field{volume}{10}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{pages}{193\bibrangedash 206}
+      \range{pages}{14}
+    \endentry
+    \entry{28}{proceedings}{}
+      \name{editor}{3}{}{%
+        {{hash=cb5b6f44946a2de61cbbd6df63b588bb}{%
+           family={Korada},
+           familyi={K\bibinitperiod},
+           given={Durga.\bibnamedelimi Malleswara\bibnamedelima Rao},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=8ff9ac9ecb6287f59b0acf18a257cb55}{%
+           family={Mishra},
+           familyi={M\bibinitperiod},
+           given={Mahesh.\bibnamedelimi Kumar},
+           giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=8fc7c9dbfe1f3ca493dce93c3d9f6286}{%
+           family={Yallamilli},
+           familyi={Y\bibinitperiod},
+           given={Ram.\bibnamedelimi Shankar},
+           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{83b5538eaa0425ecee135f285ceb06b7}
+      \strng{fullhash}{83b5538eaa0425ecee135f285ceb06b7}
+      \strng{bibnamehash}{83b5538eaa0425ecee135f285ceb06b7}
+      \strng{editorbibnamehash}{83b5538eaa0425ecee135f285ceb06b7}
+      \strng{editornamehash}{83b5538eaa0425ecee135f285ceb06b7}
+      \strng{editorfullhash}{83b5538eaa0425ecee135f285ceb06b7}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Dynamic Energy Management in DC Microgrid using Composite Energy Storage System}
+      \field{year}{2020}
+      \field{dateera}{ce}
+    \endentry
+    \entry{4}{article}{}
+      \name{author}{2}{}{%
+        {{hash=ca8f4119a21580b01c28dd3bee5363c8}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={Dinesh.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=17625557d55d6124d18d52e2365b3848}{%
+           family={Zare},
+           familyi={Z\bibinitperiod},
+           given={Firuz.},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{e16b0c63dde0a81b66579a0e9fd4896e}
+      \strng{fullhash}{e16b0c63dde0a81b66579a0e9fd4896e}
+      \strng{bibnamehash}{e16b0c63dde0a81b66579a0e9fd4896e}
+      \strng{authorbibnamehash}{e16b0c63dde0a81b66579a0e9fd4896e}
+      \strng{authornamehash}{e16b0c63dde0a81b66579a0e9fd4896e}
+      \strng{authorfullhash}{e16b0c63dde0a81b66579a0e9fd4896e}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Special Section On Power Quality And Harmonics Issues Of Future And Smart Grids}
+      \field{title}{DC Microgrid Technology: System Architectures,AC Grid Interfaces, Grounding Schemes, Power Quality, Communication Networks, Applications, and Standardizations Aspects}
+      \field{year}{2017}
+      \field{dateera}{ce}
+    \endentry
+    \entry{16}{article}{}
+      \name{author}{1}{}{%
+        {{hash=8f790bfa283d6e5103cea663400823f3}{%
+           family={L.N.},
+           familyi={L\bibinitperiod},
+           given={Azadani.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{8f790bfa283d6e5103cea663400823f3}
+      \strng{fullhash}{8f790bfa283d6e5103cea663400823f3}
+      \strng{bibnamehash}{8f790bfa283d6e5103cea663400823f3}
+      \strng{authorbibnamehash}{8f790bfa283d6e5103cea663400823f3}
+      \strng{authornamehash}{8f790bfa283d6e5103cea663400823f3}
+      \strng{authorfullhash}{8f790bfa283d6e5103cea663400823f3}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ocean Engineering}
+      \field{title}{Vertical axis wind turbines in cluster configurations}
+      \field{volume}{272}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{pages}{113\bibrangedash 855}
+      \range{pages}{743}
+    \endentry
+    \entry{37}{proceedings}{}
+      \name{editor}{4}{}{%
+        {{hash=af330c55d042623686ec6e05ee3b07af}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Fulong.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=41b8ec20586541e7bdf5164520bce465}{%
+           family={Claudio},
+           familyi={C\bibinitperiod}}}%
+        {{hash=2e78de503fd96e17e07f8532cba6d610}{%
+           family={Cañizares},
+           familyi={C\bibinitperiod}}}%
+        {{hash=594bf20b1f59b19106af6057d9787a33}{%
+           family={Zhengyu},
+           familyi={Z\bibinitperiod},
+           given={Lin},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{d7ec181f8eb09ab60defcf5d5dc423a7}
+      \strng{fullhash}{fd41184df99d089b642a8e1653f5d413}
+      \strng{bibnamehash}{d7ec181f8eb09ab60defcf5d5dc423a7}
+      \strng{editorbibnamehash}{d7ec181f8eb09ab60defcf5d5dc423a7}
+      \strng{editornamehash}{d7ec181f8eb09ab60defcf5d5dc423a7}
+      \strng{editorfullhash}{fd41184df99d089b642a8e1653f5d413}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Energy Management System for DC Microgrids Considering Battery Degradation}
+      \field{year}{2020}
+      \field{dateera}{ce}
+    \endentry
+    \entry{27}{proceedings}{}
+      \name{editor}{4}{}{%
+        {{hash=2a4a9c102e2cd18cb9507015444529ed}{%
+           family={Lim},
+           familyi={L\bibinitperiod},
+           given={Yuto.},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=e42f8ef6024bd69dee5a532476b1cc1d}{%
+           family={Jakaria},
+           familyi={J\bibinitperiod},
+           given={Hossain.\bibnamedelimi Md.},
+           giveni={H\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=afcf1d1663b50e5f7d048446f7b75a49}{%
+           family={Saher},
+           familyi={S\bibinitperiod},
+           given={Javaid.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=70b055faa96555ee9c3902b72fe264e6}{%
+           family={Yasuo},
+           familyi={Y\bibinitperiod},
+           given={Tan.},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{f27cb31066dc6c10b4e8443e98717309}
+      \strng{fullhash}{c798680e7c6889cb8e8f048a77ef36af}
+      \strng{bibnamehash}{f27cb31066dc6c10b4e8443e98717309}
+      \strng{editorbibnamehash}{f27cb31066dc6c10b4e8443e98717309}
+      \strng{editornamehash}{f27cb31066dc6c10b4e8443e98717309}
+      \strng{editorfullhash}{c798680e7c6889cb8e8f048a77ef36af}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Study of Home Energy Management System for DC-based Nanogrid}
+      \field{year}{2020}
+      \field{dateera}{ce}
+    \endentry
+    \entry{30}{proceedings}{}
+      \name{editor}{2}{}{%
+        {{hash=8ddfcf47b995423f63f5a8aa7de0777f}{%
+           family={Lonkar},
+           familyi={L\bibinitperiod},
+           given={Manoj.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=f738e765b78f9f264466a1ab8b3c208d}{%
+           family={Srinivas},
+           familyi={S\bibinitperiod},
+           given={Ponnaluri.},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{4a1d1850acd6c9cc5239deec2ddeed4e}
+      \strng{fullhash}{4a1d1850acd6c9cc5239deec2ddeed4e}
+      \strng{bibnamehash}{4a1d1850acd6c9cc5239deec2ddeed4e}
+      \strng{editorbibnamehash}{4a1d1850acd6c9cc5239deec2ddeed4e}
+      \strng{editornamehash}{4a1d1850acd6c9cc5239deec2ddeed4e}
+      \strng{editorfullhash}{4a1d1850acd6c9cc5239deec2ddeed4e}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{A Review of DC Microgrid Operation and Control}
+      \field{year}{2015}
+      \field{dateera}{ce}
+    \endentry
+    \entry{8}{article}{}
+      \name{author}{2}{}{%
+        {{hash=4f3c0d0f4d65fb578949cea6d937313e}{%
+           family={M.J.},
+           familyi={M\bibinitperiod},
+           given={Melfi.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=fb5e75dfef1e8d4288750ad5a4d96714}{%
+           family={S.D.},
+           familyi={S\bibinitperiod},
+           given={Umans.},
+           giveni={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{1c8bc694b3d330698dd2b3a42025429d}
+      \strng{fullhash}{1c8bc694b3d330698dd2b3a42025429d}
+      \strng{bibnamehash}{1c8bc694b3d330698dd2b3a42025429d}
+      \strng{authorbibnamehash}{1c8bc694b3d330698dd2b3a42025429d}
+      \strng{authornamehash}{1c8bc694b3d330698dd2b3a42025429d}
+      \strng{authorfullhash}{1c8bc694b3d330698dd2b3a42025429d}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Encyclopedia of Electrical and Electronic Power Engineering}
+      \field{title}{DC Machines}
+      \field{volume}{1}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{pages}{264\bibrangedash 279}
+      \range{pages}{16}
+    \endentry
+    \entry{9}{article}{}
+      \name{author}{3}{}{%
+        {{hash=e8d82ffe09681ac6865e57f110e6bd4d}{%
+           family={M.S.},
+           familyi={M\bibinitperiod},
+           given={Keerthana.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=73b4036297014d0cdb880a2b541a98a7}{%
+           family={Uma},
+           familyi={U\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=073903263c26e19271b05ded3c01af55}{%
+           family={U.Sowmmiya},
+           familyi={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{2152576199a08bad21f86043d3845bb0}
+      \strng{fullhash}{2152576199a08bad21f86043d3845bb0}
+      \strng{bibnamehash}{2152576199a08bad21f86043d3845bb0}
+      \strng{authorbibnamehash}{2152576199a08bad21f86043d3845bb0}
+      \strng{authornamehash}{2152576199a08bad21f86043d3845bb0}
+      \strng{authorfullhash}{2152576199a08bad21f86043d3845bb0}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{143}
+      \field{journaltitle}{International Journal of Electrical Power and Energy Systems energy storage system under islanded/ interconnected/grid-tied modes}
+      \field{title}{A study of a solar PV and wind-based residential DC NanoGrid with dual}
+      \field{year}{2022}
+      \field{dateera}{ce}
+    \endentry
+    \entry{13}{article}{}
+      \name{author}{3}{}{%
+        {{hash=b57469e515001f2ff1832a82c3867958}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Qianli.},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=a43578a9fe12c33b51cd0818cb857855}{%
+           family={Fang},
+           familyi={F\bibinitperiod},
+           given={Haisheng.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=e678527db27127baf2e337470c642bc4}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Mengjie.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{b16bedae3d70eb9ea8ef80b35b8de094}
+      \strng{fullhash}{b16bedae3d70eb9ea8ef80b35b8de094}
+      \strng{bibnamehash}{b16bedae3d70eb9ea8ef80b35b8de094}
+      \strng{authorbibnamehash}{b16bedae3d70eb9ea8ef80b35b8de094}
+      \strng{authornamehash}{b16bedae3d70eb9ea8ef80b35b8de094}
+      \strng{authorfullhash}{b16bedae3d70eb9ea8ef80b35b8de094}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied Thermal Engineering}
+      \field{title}{Theoretical analysis and design optimization of thermoelectric generator}
+      \field{volume}{127}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{pages}{758\bibrangedash 764}
+      \range{pages}{7}
+    \endentry
+    \entry{12}{proceedings}{}
+      \name{editor}{14}{}{%
+        {{hash=3f6ce3a286d4b7cd6563b1dd6892cd58}{%
+           family={Marion},
+           familyi={M\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=d303875082c3ea1ad4c0ccc7a95fc4f3}{%
+           family={Adelstein},
+           familyi={A\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=6dc86bda15c8e87c29200d2da4f5eb54}{%
+           family={Boyle},
+           familyi={B\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=4b551df2c2023c494b4967b2c03237b7}{%
+           family={Hayden},
+           familyi={H\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=2a41a74bae53c4aea720913733055402}{%
+           family={Hammond},
+           familyi={H\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=3dfb9761c8869daf72991cc7bd888c62}{%
+           family={Fletcher},
+           familyi={F\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=a931589c149c2528d70bd52b38c94391}{%
+           family={Canada},
+           familyi={C\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=ed75c4b46dd448f58919bba979efeccc}{%
+           family={Narang},
+           familyi={N\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=b119cf95054f91d3d480f7d84c374cc3}{%
+           family={Shugar},
+           familyi={S\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=9911d3f9351d56bae9e393669a21235d}{%
+           family={Wenger},
+           familyi={W\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=7475db5883ee1f21e92e0e49bfff83e3}{%
+           family={Kimber},
+           familyi={K\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=2e6319df76196f3040d7ca78f2befd4b}{%
+           family={Mitchell},
+           familyi={M\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=ab7f33d0713ef80b01245e47b7576706}{%
+           family={Rich},
+           familyi={R\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=170569dbaf7409950ec0c04fb3cb3924}{%
+           family={Townsend},
+           familyi={T\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{5d03964e1f1bb91c921b31d2481c999d}
+      \strng{fullhash}{0b53383d2819b8b5924f89f883d31279}
+      \strng{bibnamehash}{5d03964e1f1bb91c921b31d2481c999d}
+      \strng{editorbibnamehash}{5d03964e1f1bb91c921b31d2481c999d}
+      \strng{editornamehash}{5d03964e1f1bb91c921b31d2481c999d}
+      \strng{editorfullhash}{0b53383d2819b8b5924f89f883d31279}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Performance Parameters for Grid-Connected PV Systems}
+      \field{year}{2005}
+      \field{dateera}{ce}
+    \endentry
+    \entry{34}{proceedings}{}
+      \name{editor}{3}{}{%
+        {{hash=519db556b482b278ec94238122ce16c0}{%
+           family={Michael},
+           familyi={M\bibinitperiod},
+           given={Starke.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=f7b20cc0015957f16ae6674abbad1ebf}{%
+           family={M.},
+           familyi={M\bibinitperiod},
+           given={Tolbert.\bibnamedelimi Leon},
+           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=8df5af0bacad873d20d401affdf8a8b4}{%
+           family={Burak},
+           familyi={B\bibinitperiod},
+           given={Ozpineci.},
+           giveni={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{563ddf6a5c425b476403b338de7769e0}
+      \strng{fullhash}{563ddf6a5c425b476403b338de7769e0}
+      \strng{bibnamehash}{563ddf6a5c425b476403b338de7769e0}
+      \strng{editorbibnamehash}{563ddf6a5c425b476403b338de7769e0}
+      \strng{editornamehash}{563ddf6a5c425b476403b338de7769e0}
+      \strng{editorfullhash}{563ddf6a5c425b476403b338de7769e0}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{AC vs. DC Distribution:A Loss Comparison}
+      \field{year}{2008}
+      \field{dateera}{ce}
+    \endentry
+    \entry{43}{article}{}
+      \name{author}{3}{}{%
+        {{hash=05a574721ad52c693686f13eb29f767e}{%
+           family={Mota},
+           familyi={M\bibinitperiod},
+           given={Bruno},
+           giveni={B\bibinitperiod}}}%
+        {{hash=f6bc0b5453e7f48a3c1235abd2ca9734}{%
+           family={Faria},
+           familyi={F\bibinitperiod},
+           given={Pedro},
+           giveni={P\bibinitperiod}}}%
+        {{hash=fcc1d752158e2eb7349d2d290a13be13}{%
+           family={Vale},
+           familyi={V\bibinitperiod},
+           given={Zita},
+           giveni={Z\bibinitperiod}}}%
+      }
+      \strng{namehash}{c5b1773b0fa0e70fa46aaf4152c551a3}
+      \strng{fullhash}{c5b1773b0fa0e70fa46aaf4152c551a3}
+      \strng{bibnamehash}{c5b1773b0fa0e70fa46aaf4152c551a3}
+      \strng{authorbibnamehash}{c5b1773b0fa0e70fa46aaf4152c551a3}
+      \strng{authornamehash}{c5b1773b0fa0e70fa46aaf4152c551a3}
+      \strng{authorfullhash}{c5b1773b0fa0e70fa46aaf4152c551a3}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{1}
+      \field{journaltitle}{Energy}
+      \field{title}{Residential load shifting in demand response events for bill reduction using a genetic algorithm}
+      \field{volume}{260}
+      \field{year}{2022}
+      \field{dateera}{ce}
+    \endentry
+    \entry{21}{article}{}
+      \name{author}{4}{}{%
+        {{hash=4c56184b65401332bed0e2cf8821974c}{%
+           family={Ould},
+           familyi={O\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=16adcda796a8c8f5ace9956530c962b1}{%
+           family={D},
+           familyi={D\bibinitperiod},
+           given={Amrouche.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=afdbbd708e70d120b890ca171a11724d}{%
+           family={Rekioua},
+           familyi={R\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=45b0fb08cdc92b8b5b6ffa46a5c0b2e0}{%
+           family={Bacha},
+           familyi={B\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{e79b305e726e68467c944029f13dcd0f}
+      \strng{fullhash}{cb6e5794ff6696b13d9d4e238cbf7ed1}
+      \strng{bibnamehash}{e79b305e726e68467c944029f13dcd0f}
+      \strng{authorbibnamehash}{e79b305e726e68467c944029f13dcd0f}
+      \strng{authornamehash}{e79b305e726e68467c944029f13dcd0f}
+      \strng{authorfullhash}{cb6e5794ff6696b13d9d4e238cbf7ed1}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Hydrogen Energy}
+      \field{title}{Overview of energy storage in renewable energy systems}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{pages}{20914\bibrangedash 20927}
+      \range{pages}{14}
+    \endentry
+    \entry{11}{article}{}
+      \name{author}{2}{}{%
+        {{hash=fc037c160950a6b1176f9215ccc702b5}{%
+           family={Padmavathi},
+           familyi={P\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=6e4996772a1ba3e45a4ccd057e5e0393}{%
+           family={Daniel},
+           familyi={D\bibinitperiod},
+           given={S.\bibnamedelimi Arul.},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{e3dc7bca524a844ec26b50e8ec153d2d}
+      \strng{fullhash}{e3dc7bca524a844ec26b50e8ec153d2d}
+      \strng{bibnamehash}{e3dc7bca524a844ec26b50e8ec153d2d}
+      \strng{authorbibnamehash}{e3dc7bca524a844ec26b50e8ec153d2d}
+      \strng{authornamehash}{e3dc7bca524a844ec26b50e8ec153d2d}
+      \strng{authorfullhash}{e3dc7bca524a844ec26b50e8ec153d2d}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Energy for Sustainable Development}
+      \field{title}{Performance analysis of a 3 MWp grid connected solar photovoltaic power plant in India}
+      \field{volume}{17}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \field{pages}{615\bibrangedash 625}
+      \range{pages}{11}
+    \endentry
+    \entry{7}{article}{}
+      \name{author}{4}{}{%
+        {{hash=1f34bcb26f5d07144d8786d338fc64d3}{%
+           family={Pal},
+           familyi={P\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=a68388d517dc1d417ea9cba956352862}{%
+           family={Mukherjee},
+           familyi={M\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+        {{hash=2eea50c56a75b694e87117f368ef6659}{%
+           family={P.Kumar},
+           familyi={P\bibinitperiod}}}%
+        {{hash=57bc444106dbcfdd2aa48cf880ddbb44}{%
+           family={ME.Makhatha},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{d78fe29ec9a63c3ab45c1fb745004784}
+      \strng{fullhash}{e6b7e6fa25257a631c15b976321148d0}
+      \strng{bibnamehash}{d78fe29ec9a63c3ab45c1fb745004784}
+      \strng{authorbibnamehash}{d78fe29ec9a63c3ab45c1fb745004784}
+      \strng{authornamehash}{d78fe29ec9a63c3ab45c1fb745004784}
+      \strng{authorfullhash}{e6b7e6fa25257a631c15b976321148d0}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{67}
+      \field{journaltitle}{Materialstoday}
+      \field{title}{Viability analysis of direct current (DC) standalone hybrid photovoltaic (PV)/ hydrogen fuel cell (HFC) energy system: A techno-economic approach}
+      \field{volume}{39}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{pages}{187\bibrangedash 1812}
+      \range{pages}{1626}
+    \endentry
+    \entry{32}{proceedings}{}
+      \name{editor}{3}{}{%
+        {{hash=b7d9951aa8a1dd243785d9209d7af368}{%
+           family={Prakash},
+           familyi={P\bibinitperiod},
+           given={Surya.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=a40d2cb180c072bb969a1efd60b4430a}{%
+           family={Mishra},
+           familyi={M\bibinitperiod},
+           given={Sukumar.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=b1d8a655486f95e10e1828008636cf06}{%
+           family={Padhy},
+           familyi={P\bibinitperiod},
+           given={Narayana\bibnamedelima Prasad.},
+           giveni={N\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{723638988b13518ae33bc6644b5f4d5b}
+      \strng{fullhash}{723638988b13518ae33bc6644b5f4d5b}
+      \strng{bibnamehash}{723638988b13518ae33bc6644b5f4d5b}
+      \strng{editorbibnamehash}{723638988b13518ae33bc6644b5f4d5b}
+      \strng{editornamehash}{723638988b13518ae33bc6644b5f4d5b}
+      \strng{editorfullhash}{723638988b13518ae33bc6644b5f4d5b}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Modeling and Simulation of Microgrid}
+      \field{year}{2016}
+      \field{dateera}{ce}
+    \endentry
+    \entry{31}{proceedings}{}
+      \name{editor}{3}{}{%
+        {{hash=b7d9951aa8a1dd243785d9209d7af368}{%
+           family={Prakash},
+           familyi={P\bibinitperiod},
+           given={Surya.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=29fab61cbf48517fb38822ef0c4aad9f}{%
+           family={Sukumar.Mishra},
+           familyi={S\bibinitperiod}}}%
+        {{hash=b1d8a655486f95e10e1828008636cf06}{%
+           family={Padhy},
+           familyi={P\bibinitperiod},
+           given={Narayana\bibnamedelima Prasad.},
+           giveni={N\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{7c811834babd152a40d09d1f7ff179ca}
+      \strng{fullhash}{7c811834babd152a40d09d1f7ff179ca}
+      \strng{bibnamehash}{7c811834babd152a40d09d1f7ff179ca}
+      \strng{editorbibnamehash}{7c811834babd152a40d09d1f7ff179ca}
+      \strng{editornamehash}{7c811834babd152a40d09d1f7ff179ca}
+      \strng{editorfullhash}{7c811834babd152a40d09d1f7ff179ca}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Coordinated Control of a Grid Connected DC MicroGrid with Multiple Renewable Sources}
+      \field{year}{2016}
+      \field{dateera}{ce}
+    \endentry
+    \entry{5}{proceedings}{}
+      \name{editor}{5}{}{%
+        {{hash=09685a475f632f2459d7acd5e94f41b9}{%
+           family={Rodriguez-Diaz},
+           familyi={R\bibinithyphendelim D\bibinitperiod},
+           given={Enrique.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=c192cc77a6dfc5d01c1ab76894316879}{%
+           family={J2},
+           familyi={J\bibinitperiod},
+           given={Emilio.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=50052ad0de5688ab13b382bf921fc54f}{%
+           family={Palacios-Garcia},
+           familyi={P\bibinithyphendelim G\bibinitperiod}}}%
+        {{hash=122d188e384d5b8120678cba25b6ef61}{%
+           family={Amjad},
+           familyi={A\bibinitperiod},
+           given={Anvari-Moghaddam},
+           giveni={A\bibinithyphendelim M\bibinitperiod}}}%
+        {{hash=d29c07ccd4c7c78831b5ec3dd7419b72}{%
+           family={Juan\bibnamedelima C},
+           familyi={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Vasquez},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{d277b72f9fbd9abe3c2449412fb7fa6e}
+      \strng{fullhash}{7187d771532f9b2408ed2a5e83a7d54e}
+      \strng{bibnamehash}{d277b72f9fbd9abe3c2449412fb7fa6e}
+      \strng{editorbibnamehash}{d277b72f9fbd9abe3c2449412fb7fa6e}
+      \strng{editornamehash}{d277b72f9fbd9abe3c2449412fb7fa6e}
+      \strng{editorfullhash}{7187d771532f9b2408ed2a5e83a7d54e}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Real-Time Energy Management System for a Hybrid AC/DC Residential Microgrid}
+      \field{year}{2017}
+      \field{dateera}{ce}
+    \endentry
+    \entry{6}{booklet}{}
+      \name{author}{2}{}{%
+        {{hash=47e84579eb7b63768fdada39c9dff2a4}{%
+           family={Schmitz},
+           familyi={S\bibinitperiod}}}%
+        {{hash=63105cd610a8cc6babce326aa7e5a09e}{%
+           family={S.},
+           familyi={S\bibinitperiod},
+           given={Kenneth},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{540362fdfef7bec7e313f7fe28422575}
+      \strng{fullhash}{540362fdfef7bec7e313f7fe28422575}
+      \strng{bibnamehash}{540362fdfef7bec7e313f7fe28422575}
+      \strng{authorbibnamehash}{540362fdfef7bec7e313f7fe28422575}
+      \strng{authornamehash}{540362fdfef7bec7e313f7fe28422575}
+      \strng{authorfullhash}{540362fdfef7bec7e313f7fe28422575}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Physical Chemistry}
+      \field{year}{2018}
+      \field{dateera}{ce}
+    \endentry
+    \entry{41}{online}{}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeltitlesource}{title}
+      \field{title}{Solar irradiance data}
+      \verb{urlraw}
+      \verb https://www.eskom.co.za/AboutElectricity/RenewableEnergy/Documents/SolarData_site3fullsetTellerie.xls
+      \endverb
+      \verb{url}
+      \verb https://www.eskom.co.za/AboutElectricity/RenewableEnergy/Documents/SolarData_site3fullsetTellerie.xls
+      \endverb
+    \endentry
+    \entry{14}{article}{}
+      \name{author}{2}{}{%
+        {{hash=5d3114452c413c748cebcedc7b8804b4}{%
+           family={Tabaie},
+           familyi={T\bibinitperiod},
+           given={Zahrasadat.},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=6a03e1ecdb336b366a2984d7799e2ee3}{%
+           family={Omidvar},
+           familyi={O\bibinitperiod},
+           given={Amir.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{a6ceaf9068c89374fd2ab936cc14f588}
+      \strng{fullhash}{a6ceaf9068c89374fd2ab936cc14f588}
+      \strng{bibnamehash}{a6ceaf9068c89374fd2ab936cc14f588}
+      \strng{authorbibnamehash}{a6ceaf9068c89374fd2ab936cc14f588}
+      \strng{authornamehash}{a6ceaf9068c89374fd2ab936cc14f588}
+      \strng{authorfullhash}{a6ceaf9068c89374fd2ab936cc14f588}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Heliyon}
+      \field{title}{Human body heat-driven thermoelectric generators as a sustainable power supply for wearable electronic devices: Recent advances, challenges, and future perspective}
+      \field{volume}{9}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{pages}{e14707}
+      \range{pages}{-1}
+    \endentry
+    \entry{3}{report}{}
+      \name{author}{4}{}{%
+        {{hash=7c2ee16cc52e0bb788e44753aa04f740}{%
+           family={Xiao},
+           familyi={X\bibinitperiod},
+           given={Jianfang.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=87ad8cc8d1b02bbe65752989840994fb}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Tianyang.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=a9bb53846d2efdf1be60c9b554ce54b8}{%
+           family={Hai},
+           familyi={H\bibinitperiod},
+           given={Koh\bibnamedelima Leong.},
+           giveni={K\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=f403b14ecb6cad3a3e124785b07b5a3a}{%
+           family={Peng},
+           familyi={P\bibinitperiod},
+           given={Wang.},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{b4c037965bbf6fdac67408c4f1f51aa9}
+      \strng{fullhash}{db74b2e97048295a4f20f5dc736f56fa}
+      \strng{bibnamehash}{b4c037965bbf6fdac67408c4f1f51aa9}
+      \strng{authorbibnamehash}{b4c037965bbf6fdac67408c4f1f51aa9}
+      \strng{authornamehash}{b4c037965bbf6fdac67408c4f1f51aa9}
+      \strng{authorfullhash}{db74b2e97048295a4f20f5dc736f56fa}
+      \field{sortinit}{X}
+      \field{sortinithash}{1965c258adceecf23ce3d67b05113442}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ARDA Power Inc.}
+      \field{title}{Smart Energy Hub - Modularized Hybrid AC/DC Microgrid: System Design and Deployment}
+      \field{year}{2017}
+      \field{dateera}{ce}
+    \endentry
+    \entry{40}{article}{}
+      \name{author}{6}{}{%
+        {{hash=f000b5bd87244061f32d85d69687c1a1}{%
+           family={Yoon},
+           familyi={Y\bibinitperiod},
+           given={Chun.\bibnamedelimi Chang},
+           giveni={C\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=ef84557469d70a19021a2dc49006022d}{%
+           family={Jongbok},
+           familyi={J\bibinitperiod},
+           given={Baek.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=729bd02e1d7a8cae19a9ff061abbf3af}{%
+           family={Gab-Su},
+           familyi={G\bibinithyphendelim S\bibinitperiod},
+           given={Seo.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=6b266b2f66da82f8361290e202a74cba}{%
+           family={B.H.},
+           familyi={B\bibinitperiod},
+           given={Cho.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=f4e3430638cf903b784f9c5e9c7ffa89}{%
+           family={Chang},
+           familyi={C\bibinitperiod},
+           given={Jonghoon\bibnamedelimb Kim.\bibnamedelimi Il\bibnamedelima Kwon},
+           giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim I\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=b7899768f2a4bbf3f699087aa4fcc90c}{%
+           family={Sangwoo},
+           familyi={S\bibinitperiod},
+           given={Lee.},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{16a5d2bb9d54514c7fd73159678544e9}
+      \strng{fullhash}{111fbfbeeb112b6b1c55ba63ddacc23a}
+      \strng{bibnamehash}{16a5d2bb9d54514c7fd73159678544e9}
+      \strng{authorbibnamehash}{16a5d2bb9d54514c7fd73159678544e9}
+      \strng{authornamehash}{16a5d2bb9d54514c7fd73159678544e9}
+      \strng{authorfullhash}{111fbfbeeb112b6b1c55ba63ddacc23a}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Power Sources}
+      \field{title}{Current sensor-less state-of-charge estimation algorithm for lithium-ion batteries utilizing filtered terminal voltage}
+      \field{volume}{273}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{pages}{255\bibrangedash 263}
+      \range{pages}{9}
+    \endentry
+    \entry{15}{article}{}
+      \name{author}{5}{}{%
+        {{hash=e8df7e23b28c06312875a44c438f953e}{%
+           family={Zeng},
+           familyi={Z\bibinitperiod},
+           given={Jin-Liang.},
+           giveni={J\bibinithyphendelim L\bibinitperiod}}}%
+        {{hash=4f631b8941cf15afac4830ceb900285c}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Xun.},
+           giveni={X\bibinitperiod}}}%
+        {{hash=0bd64ebb4b17aef143679ee960210ab6}{%
+           family={Su},
+           familyi={S\bibinitperiod},
+           given={Chu-Qi.},
+           giveni={C\bibinithyphendelim Q\bibinitperiod}}}%
+        {{hash=69cb23390d19d09c59e947d5c8e9e70b}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Yi-Ping.},
+           giveni={Y\bibinithyphendelim P\bibinitperiod}}}%
+        {{hash=af4076fa5508c5adbdf264655d967553}{%
+           family={Xiong},
+           familyi={X\bibinitperiod},
+           given={Xin.},
+           giveni={X\bibinitperiod}}}%
+      }
+      \strng{namehash}{9d5b57039638e06eeae79de1e4723064}
+      \strng{fullhash}{683c432777fdf39689a86700e7630d62}
+      \strng{bibnamehash}{9d5b57039638e06eeae79de1e4723064}
+      \strng{authorbibnamehash}{9d5b57039638e06eeae79de1e4723064}
+      \strng{authornamehash}{9d5b57039638e06eeae79de1e4723064}
+      \strng{authorfullhash}{683c432777fdf39689a86700e7630d62}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Conference on Power and Electrical Engineering (ICPEE)}
+      \field{title}{Numerical investigation of a geothermal thermoelectric generator using gravity heat pipe structure}
+      \field{volume}{3}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{pages}{21\bibrangedash 31}
+      \range{pages}{11}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
