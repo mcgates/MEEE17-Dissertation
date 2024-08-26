@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.13)  14 JUL 2024 21:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.13)  17 AUG 2024 16:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -588,18 +588,8 @@ texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}])
 
 
 (./Contents/Nomclemature.tex
-! Undefined control sequence.
-<argument> \extrarowheight 
-                           
-l.4 		{\setlength{\extrarowheight}{20pt}
-                                        }
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
 LaTeX Font Info:    Trying to load font information for U+msa on input line 5.
+
 (c:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
@@ -654,19 +644,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \openout2 = `Contents/Nomclemature.aux'.
 
 
-(./Contents/Nomclemature.tex
-! Undefined control sequence.
-<argument> \extrarowheight 
-                           
-l.4 		{\setlength{\extrarowheight}{20pt}
-                                        }
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-) [11
+(./Contents/Nomclemature.tex) [11
 
 
 
@@ -1183,10 +1161,10 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 15227 strings out of 474115
- 294916 string characters out of 5747696
+ 15226 strings out of 474115
+ 294902 string characters out of 5747696
  1939190 words of memory out of 5000000
- 37351 multiletter control sequences out of 15000+600000
+ 37350 multiletter control sequences out of 15000+600000
  572449 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  69i,11n,81p,1230b,2904s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1205,7 +1183,7 @@ fonts/type1/public/cm-super/sfcc1200.pfb><c:/texlive/2024/texmf-dist/fonts/type
 m-super/sfrm1200.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sf
 ti1200.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb
 >
-Output written on main.pdf (81 pages, 3736206 bytes).
+Output written on main.pdf (81 pages, 3736157 bytes).
 PDF statistics:
  469 PDF objects out of 1000 (max. 8388607)
  234 compressed objects within 3 object streams
