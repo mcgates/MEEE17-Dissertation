@@ -1,44 +1,72 @@
 \documentclass[english,12pt,a4paper]{report}
 \usepackage[left=30mm, right=25mm,top=25mm,bottom=25mm]{geometry}
 \usepackage[nodisplayskipstretch]{setspace}
-\setstretch{1.6}
+\setstretch{1.5}
 \setcounter{secnumdepth}{4} % seting level of numbering 
 \usepackage[T1]{fontenc}
 \usepackage{graphicx}
+\usepackage{subcaption}  % For subfigures
 \usepackage{amssymb}
+\usepackage{amsmath}
 \usepackage{nameref}
+\usepackage{hyperref}
 \usepackage{babel}
 \usepackage{float}
 \usepackage{enumitem}
 \usepackage{fancyhdr} 
 \usepackage{csquotes}
-\usepackage{biblatex}
-\addbibresource{Bibliography.bib}
+\bibliographystyle{IEEEtran}
+\usepackage{url}
+\usepackage{nomencl}
+\makenomenclature
+\usepackage{sectsty}
+\chapterfont{\centering\huge\bfseries}
 
+%Remove title "Bibliography"
+\usepackage{etoolbox}
+\patchcmd{\thebibliography}{\chapter*{\bibname}}{}{}{}
+
+% Adjust the spacing in the nomenclature
+\setlength{\nomitemsep}{-\parsep} % Reduces vertical space between items
+\renewcommand{\nompreamble}{\vspace{2em}} % Adjusts space before the list start
 %\pagestyle{fancy} 
 \renewcommand\labelenumi{(\theenumi)}
 \usepackage[font=small,labelfont=bf]{caption}
 
-
 \begin{document}
 	\include{TitlePage}
-	\include{Contents/Acknowledgement}	
-	\include{Contents/Abstract}	
-	\include{Contents/Nomclemature}
-	\include{Contents/table of contents}
-	\include{Contents/list of tables}
-	\include{Contents/list of figures}
-	\include{Contents/Nomclemature}
+	\pagenumbering{roman}
+	% Declaration section
+	\chapter*{Declaration}
+	\addcontentsline{toc}{chapter}{Declaration}
+	\input{Declaration}
+
+	% Acknowledgement section
+	\chapter*{Acknowledgments}
+	\addcontentsline{toc}{chapter}{Acknowledgments}
+	\input{Contents/Acknowledgement}
 	
+	% Abstract section
+	\chapter*{Abstract}
+	\addcontentsline{toc}{chapter}{Abstract}
+	\input{Contents/Abstract}		
+	\include{Contents/table of contents}	
+	\include{Contents/List of tables}
+	\include{Contents/List of figures}
+	\pagenumbering{arabic}	
+	\include{Contents/Nomenclature}
+	
+
 \chapter{Introduction}
 	\input{Chapter 1/Introduction}
 \chapter{Literature Review}
 	\input{Chapter 2/Literature review}
-\chapter{Theoretical considerations}
+\chapter{Fundamental Consideration}
 	\input{Chapter 3/Theoretical considerations}
-\chapter{Methods and materials}
+\chapter{Method and materials}
 	\input{Chapter 4/Methods and materials}
-\chapter{Conclusion}
-	\input{Chapter 5/Conclusion}	
-	\printbibliography[title={References}]		
+\chapter{Conclusion and Recommendation}
+	\input{Chapter 5/Conclusion}
+\chapter{References}		
+\bibliography{Bibliography}	
 \end{document}

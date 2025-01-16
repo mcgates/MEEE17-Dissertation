@@ -1,0 +1,26 @@
+
+\begin{thenomenclature} 
+\nomgroup{A}
+  \item [{$AC$}]\begingroup Alternating Current\nomeqref {0}\nompageref{1}
+  \item [{$AFE$}]\begingroup Active Front End\nomeqref {0}\nompageref{1}
+  \item [{$AI$}]\begingroup Artificial Intelligence\nomeqref {0}\nompageref{1}
+  \item [{$CGMS$}]\begingroup Central Grid Management System\nomeqref {0}\nompageref{1}
+  \item [{$DC$}]\begingroup Direct Current\nomeqref {0}\nompageref{1}
+  \item [{$DCMG$}]\begingroup Direct Current Microgrid\nomeqref {0}\nompageref{1}
+  \item [{$DER$}]\begingroup Distributed Energy Resources\nomeqref {0}\nompageref{1}
+  \item [{$ER$}]\begingroup Energy Resources\nomeqref {0}\nompageref{1}
+  \item [{$ESS$}]\begingroup Energy Storage System\nomeqref {0}\nompageref{1}
+  \item [{$GRU$}]\begingroup Gated Recurrent Unit\nomeqref {0}\nompageref{1}
+  \item [{$HEMS$}]\begingroup Home Energy Management System\nomeqref {0}\nompageref{1}
+  \item [{$MG$}]\begingroup Microgrid\nomeqref {0}\nompageref{1}
+  \item [{$MPPT$}]\begingroup Maximum Power Point Tracker\nomeqref {0}\nompageref{1}
+  \item [{$PD$}]\begingroup Power Delivery\nomeqref {0}\nompageref{1}
+  \item [{$RDS$}]\begingroup Residential Distribution Systems\nomeqref {0}\nompageref{1}
+  \item [{$REMCS$}]\begingroup Residential Energy Management and Control System\nomeqref {0}\nompageref{1}
+  \item [{$RES$}]\begingroup Renewable energy resources\nomeqref {0}\nompageref{1}
+  \item [{$SHEMS$}]\begingroup Smart Home Energy Management System\nomeqref {0}\nompageref{1}
+  \item [{$SoC$}]\begingroup State of Charge\nomeqref {0}\nompageref{1}
+  \item [{$SoS$}]\begingroup System of Systems\nomeqref {0}\nompageref{1}
+  \item [{$USB-PD$}]\begingroup Universal Serial Bus - Power Delivery\nomeqref {0}\nompageref{1}
+
+\end{thenomenclature}

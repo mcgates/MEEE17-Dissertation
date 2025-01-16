@@ -1,0 +1,21 @@
+\nomenclatureentry{a$AC$@[{$AC$}]\begingroup Alternating Current\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{a$AFE$@[{$AFE$}]\begingroup Active Front End\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{a$AI$@[{$AI$}]\begingroup Artificial Intelligence\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{a$CGMS$@[{$CGMS$}]\begingroup Central Grid Management System\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{a$DC$@[{$DC$}]\begingroup Direct Current\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{a$DCMG$@[{$DCMG$}]\begingroup Direct Current Microgrid\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{a$DER$@[{$DER$}]\begingroup Distributed Energy Resources\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{a$ER$@[{$ER$}]\begingroup Energy Resources\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{a$ESS$@[{$ESS$}]\begingroup Energy Storage System\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{a$MG$@[{$MG$}]\begingroup Microgrid\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{a$MPPT$@[{$MPPT$}]\begingroup Maximum Power Point Tracker\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{a$RDS$@[{$RDS$}]\begingroup Residential Distribution Systems\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{a$PD$@[{$PD$}]\begingroup Power Delivery\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{a$REMCS$@[{$REMCS$}]\begingroup Residential Energy Management and Control System\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{a$RES$@[{$RES$}]\begingroup Renewable energy resources\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{a$SoC$@[{$SoC$}]\begingroup State of Charge\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{a$SoS$@[{$SoS$}]\begingroup System of Systems\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{a$USB-PD$@[{$USB-PD$}]\begingroup Universal Serial Bus - Power Delivery\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{a$HEMS$@[{$HEMS$}]\begingroup Home Energy Management System\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{a$SHEMS$@[{$SHEMS$}]\begingroup Smart Home Energy Management System\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{a$GRU$@[{$GRU$}]\begingroup Gated Recurrent Unit\nomeqref {0}|nompageref}{1}

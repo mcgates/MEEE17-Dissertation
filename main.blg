@@ -1,15 +1,71 @@
-[0] Config.pm:307> INFO - This is Biber 2.19
-[0] Config.pm:310> INFO - Logfile is 'main.blg'
-[143] biber-MSWIN64:340> INFO - === 
-[204] Biber.pm:419> INFO - Reading 'main.bcf'
-[394] Biber.pm:979> INFO - Found 43 citekeys in bib section 0
-[413] Biber.pm:4419> INFO - Processing section 0
-[431] Biber.pm:4610> INFO - Looking for bibtex file 'Bibliography.bib' for section 0
-[498] bibtex.pm:1713> INFO - LaTeX decoding ...
-[566] bibtex.pm:1519> INFO - Found BibTeX data source 'Bibliography.bib'
-[881] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[882] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[882] Biber.pm:4239> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
-[882] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
-[946] bbl.pm:660> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[977] bbl.pm:763> INFO - Output to main.bbl
+This is BibTeX, Version 0.99d (TeX Live 2023/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+The style file: IEEEtran.bst
+A level-1 auxiliary file: TitlePage.aux
+White space in argument---line 13 of file main.aux
+ : \@input{Contents/table
+ :                        of contents.aux}
+I'm skipping whatever remains of this command
+White space in argument---line 14 of file main.aux
+ : \@input{Contents/List
+ :                       of tables.aux}
+I'm skipping whatever remains of this command
+White space in argument---line 15 of file main.aux
+ : \@input{Contents/List
+ :                       of figures.aux}
+I'm skipping whatever remains of this command
+A level-1 auxiliary file: Contents/Nomenclature.aux
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: Bibliography.bib
+-- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+
+Done.
+You've used 45 entries,
+            4087 wiz_defined-function locations,
+            1115 strings with 15818 characters,
+and the built_in function-call counts, 29573 in all, are:
+= -- 2387
+> -- 780
+< -- 190
++ -- 411
+- -- 162
+* -- 1378
+:= -- 4560
+add.period$ -- 90
+call.type$ -- 45
+change.case$ -- 44
+chr.to.int$ -- 423
+cite$ -- 45
+duplicate$ -- 2238
+empty$ -- 2385
+format.name$ -- 189
+if$ -- 6836
+int.to.chr$ -- 0
+int.to.str$ -- 45
+missing$ -- 397
+newline$ -- 160
+num.names$ -- 45
+pop$ -- 978
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 2
+skip$ -- 2290
+stack$ -- 0
+substring$ -- 1101
+swap$ -- 1692
+text.length$ -- 49
+text.prefix$ -- 0
+top$ -- 5
+type$ -- 45
+warning$ -- 0
+while$ -- 121
+width$ -- 47
+write$ -- 432
+(There were 3 error messages)
