@@ -5,7 +5,7 @@ The first DC Microgrid was commissioned in 1882 \cite{Sulzberger2013}, DC Microg
 Advancements in renewable energy sources have sparked renewed interest in DC distribution, as these sources inherently produce direct current. Unlike AC generation technologies, Renewable energy source are distributed. Their decentralised nature allows renewable systems, such as solar panels and wind turbines, to be installed closer to the point of use.\par
 There are three types of microgrids: AC, DC, and hybrid. Each topology comes with its own advantages and disadvantages. One major challenge in DC microgrid systems is the lack of standardization, particularly concerning voltage levels for residential, commercial, and industrial loads \cite{Rajesh2017}. On the other hand, synchronisation poses a significant challenge in AC microgrids, especially within decentralized systems \cite{Tapan2018}. Hybrid microgrids capitalise on the distributed energy resource (DER) compatibility of DC microgrids while benefiting from the long-distance transmission capabilities of AC microgrids.
 \section{DC Generation Technologies}
-Direct current is produced by generators with commutators, fuel cells, rectifiers and photovoltaic cells. DC generators are rarely used in power plants due to extensive use of AC over DC in transmission lines. \cite{Melfi2023}.  Photo voltaic arrays generate DC electricity in the presence of adequate sun radiation, in case where the sun radiation is inadequate, wind generation is utilized by using rectifiers.  M.S. Keerthana et al. \cite{Keerthana2022} demonstrated a dual source DC Microgrid by using wind and solar. 
+Direct current is produced by generators with commutators, fuel cells, rectifiers, and photovoltaic cells. DC generators are rarely used in power plants due to extensive use of AC over DC in transmission lines. \cite{Melfi2023}.  Photo voltaic arrays generate DC electricity in the presence of adequate sun radiation, in case where the sun radiation is inadequate, wind generation is utilized by using rectifiers.  M.S. Keerthana et al. \cite{Keerthana2022} demonstrated a dual source DC Microgrid by using wind and solar. 
 \subsection{Photovoltaic Panel}
 When sunlight (photons) strikes the photovoltaic cells, it releases energy that frees electrons from the semiconductor material, generating an electric current. The flow of electrons creates a direct current electricity within each photovoltaic cell. Multiple cells are connected in series or parallel to achieve the desired voltage and current levels. The generated DC electricity from the individual cells is combined within the panel using wiring and junction boxes. These components connect the cells and allow the collected electricity to be routed to the panel's output terminals.\par
 A Matlab/Simulink model of a PV cell equivalent is shown in \autoref{fig:SimulinkmodelofaPVcell} 
@@ -35,13 +35,13 @@ Where:\par
 	\item ${T}$ =  Cell temperature (K)
 	\item ${Ncell}$ = Number of cells connected in series in a module
 \end{list}
-The PV cells capture the energy of the sun and convert it into electricity. There are three main categories of PV panel options: Mono-crystalline solar panels, Poly-crystalline solar panels and thin-film solar panel.
+The PV cells capture the energy of the sun and convert it into electricity. There are three main categories of PV panel options: Mono-crystalline solar panels, Poly-crystalline solar panels, and thin-film solar panel.
 %---------------------------------
 \subsubsection{Poly-crystalline Panel}
 Polycrystalline panels, made from multiple silicon crystals, are characterized by a light blue colour and distinctive crystal edges. While they are less efficient and more sensitive to high temperatures, they are widely used due to their lower cost compared to monocrystalline panels. 
 
 \subsubsection{Mono-crystalline Panel}
-Monocrystalline panels, known for their high efficiency, use single-crystal silicon cells. They outperform other photovoltaic technologies in configuration \cite{Osama2022}, although thin-film panels, which consist of various semiconductor materials in thin layers, can sometimes yield slightly better performance due to a low temperature coefficient. Thin-film panels are flexible and versatile, but generally have lower efficiency than crystalline panels.
+Monocrystalline panels, known for their high efficiency, use single-crystal silicon cells. They outperform other photovoltaic technologies in configuration \cite{Osama2022}, although thin-film panels, which consist of various semiconductor materials in thin layers, can sometimes yield slightly better performance due to a low temperature coefficient. Thin-film panels are flexible and versatile but generally have lower efficiency than crystalline panels.
 
 \subsubsection{Thermoelectric generators (TEGs)} 
 Thermoelectric generators ($TEG$) convert heat into electricity using the Seebeck effect, where a temperature difference across a thermoelectric material generates an electric current. Despite their potential, TEGs have low efficiency and high costs \cite{Ma2017}, restricting their use to specialized applications  \cite{Padmavathi2013}, \cite{Marion2005}. Research continues to improve TEG efficiency for broader use, although increasing Thermal Energy Modules ($TEM$) does not linearly boost power generation \cite{Tabaie2023}.
@@ -56,7 +56,7 @@ The DC distribution is the preferred topology for microgrid distribution systems
 	\item There is no requirement to consider utility grid synchronization or reactive power in the DC system.
 	\item Battery converter primarily regulates the DC bus voltage using linear feedback. 
 \end{itemize}
-DC has its own disadvantages which include the lack of standardisations for LVDC distribution networks which were noted by, Katar et al \cite{Katar2021}. DC transmission lines has two basic distribution structures, the unipolar and bipolar system.
+DC has its own disadvantages which include the lack of standardisations for LVDC distribution networks Internally, most of the appliances operate on DCwhich were noted by, Katar et al \cite{Katar2021}. DC transmission lines have two basic distribution structures, the unipolar and bipolar system.
 In a unipolar system \autoref{fig:Unipolargrid}, electric energy is carried over two voltage lines, the Vdc and 0Vdc for reference.
 \begin{figure}[H]
 	\centering
@@ -75,7 +75,7 @@ The bipolar distribution system in \autoref{fig:Bipolargrid} carries three volta
 
 \section{Energy Storage Technologies.}
 Due to the intermittent nature of RES, which off-grid MG heavily relies upon, energy storage systems are used to power the grid when there is not enough sunlight for PV or wind speed to output the required energy to meet demand. \par
-There a many energies storage type, and each type can be further sub divided into \autoref{tab:Typesofenergystorage} below shows different types of energy storage systems:
+There are many energy storage types, and each type can be further sub divided into \autoref{tab:Typesofenergystorage} below shows different types of energy storage systems:
 
 \begin{center}
 \begin{table}[!ht]
@@ -123,13 +123,13 @@ A range of battery varieties are employed for energy storage purposes, encompass
 Renewable energy storage relies on various battery types to store excess energy generated from renewable sources like solar and wind. Lead acid batteries are the oldest rechargeable batteries \cite{Aneke2016}. They are well suited for applications where reliability and cost are primary considerations. On the other spectrum Lithium ion is very costly however the make up in cost by their high energy density, efficiency, and life cycle.
 
 \subsection{Hydrogen Energy Storage (HES)} 
-Hydrogen energy storage uses hydrogen gas as a means to store and release energy. A fuel cell is used to store hydrogen energy. In a fuel cell hydrogen and oxygen react to form water to produce electricity. This method has gained attention as a versatile and potentially sustainable solution for addressing energy storage and distribution challenges. 
+Hydrogen energy storage uses hydrogen gas to store and release energy. A fuel cell is used to store hydrogen energy. In a fuel cell hydrogen and oxygen react to form water to produce electricity. This method has gained attention as a versatile and potentially sustainable solution for addressing energy storage and distribution challenges. 
 
 \subsection{Mechanical Storage} 
 Mechanical storage is the process of storing energy in mechanical systems and converting it back to usable energy when needed. The types of mechanical storage include pumped hydroelectric storage ($PHD$), Compressed Air Energy Storage ($CAES$), Flywheel Energy Storage, Gravitational Energy Storage. These types of energy storage have geographical and environmental constraints.
 
 \subsection{Super Capacitor Energy Storage} 
-Supercapacitors use polarized liquid layers between the conducting ionic electrolyte and conducting electrode to increase the capacitance. They have a very high energy density and power. Supercapacitors have a very low state of charge compared to other electromechanical storage systems \cite{Amrouche2016}. They can be used to suppress power fluctuations in wind and PV systems, and are generally combined with a battery system in a hybrid storage system.
+Supercapacitors use polarized liquid layers between the conducting ionic electrolyte and conducting electrode to increase the capacitance. They have an extremely high energy density and power. Supercapacitors have a very low state of charge compared to other electromechanical storage systems \cite{Amrouche2016}. They can be used to suppress power fluctuations in wind and PV systems, and are generally combined with a battery system in a hybrid storage system.
 
 \subsection{Thermal Energy Storage (TES)} 
 Thermal energy storage is a method of storing thermal energy by heating or cooling and releasing it when needed. TES systems can also be used to mitigate the intermittent of renewable energy sources, by storing heat in water tanks, molten salts, or another material.
@@ -170,14 +170,14 @@ Standardisation is a major challenge in DC microgrid systems, as there are curre
 \section{EMS-integrated DC MG}
 Energy Management Systems are used in MGs to improve grid performance, reduce operational costs, and increase efficiency \cite{Beus2020}. Different algorithms for EMS have been proposed for different MG topologies such as \cite{Burmester2017}, \cite{Surya2016} and \cite{Andreadis2018}. \cite{Yuto2016} proposed a 4-level DC-based home management system to meet voltage levels of home appliances and devices. The EMS proposed in \cite{Durga2020} improves efficiency and power management by introducing three modes of operation: power mode, deficit, and power balance mode.
 \subsection{Multi-level approach}
-Multi agent systems in microgrids are made up of units called agents. From the MG perspective, agents are Home Energy Management Systems ($HEMS$) connected to it. The agent on the MG can be configured in two ways, centralised multi-agent coordination and de-centralised agent coordination. \autoref{fig:Centralisedmultiagentcoordination} illustrates the centralised multi-agent coordination described by \cite{Andreadis2018}, the coordinator is the central agent, it is responsible for commination between the agents.
+Multi agent systems in microgrids are made up of units called agents. From the MG perspective, agents are Home Energy Management Systems ($HEMS$) connected to it. The agent on the MG can be configured in two ways, centralised multi-agent coordination and de-centralised agent coordination. \autoref{fig:Centralisedmultiagentcoordination} illustrates the centralised multi-agent coordination described by \cite{Andreadis2018}, the coordinator is the central agent responsible for commination between the agents.
 \begin{figure}[H]
 	\centering
 	\includegraphics[totalheight=6cm]{Figures/centralised multiagent.png}
 	\caption{Centralised multi-agent coordination}
 	\label{fig:Centralisedmultiagentcoordination}
 \end{figure}
-A de-centralised multi-agent co-ordination is shown in \autoref{fig:Decentralizedmultiagentcoordination}  below. In this architecture, the agents work independently, they communicate to each other to determine the status of other agents so they can perform the same task by associated motives.
+A de-centralized multi-agent co-ordination is shown in \autoref{fig:Decentralizedmultiagentcoordination}  below. In this architecture, the agents work independently, they communicate to each other to determine the status of other agents so they can perform the same task by associated motives.
 \begin{figure}[H]
 	\centering
 	\includegraphics[totalheight=6cm]{Figures/decentralised multiagent.png}
@@ -212,7 +212,7 @@ Ahmad Alzahrani et al. \cite{Ahmad2017} described as a Systems of Systems ($SoSs
 	\sloppy	
 From a microgrid layout, Residential Energy Monitoring and Control systems ($REMCS$) are systems that connect to another system such as CGMS (Central Grid Management system). REMCS subsystems capable of operating independently without any input or interference from CGMS. 
 \subsection{Modelling the microgrid for the EMS using SoSs}
-The SoSs have characteristics that allow easy integration of the EMS into the microgrid, with each system working independently, failure of one system will have little impact on the overall operation of the grid. \autoref{fig:DCMGSystemsofSystems} below shows the DC microgrid connected to RES, loads and storage systems.
+The SoSs have characteristics that allow easy integration of the EMS into the microgrid, with each system working independently, failure of one system will insignificant impact on the overall operation of the grid. \autoref{fig:DCMGSystemsofSystems} below shows the DC microgrid connected to RES, loads and storage systems.
 \begin{figure}[H]
 	\centering
 	\includegraphics[totalheight=8cm]{Figures/dc mg systems of systems.png}

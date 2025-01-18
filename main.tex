@@ -1,10 +1,11 @@
 \documentclass[english,12pt,a4paper]{report}
+\usepackage{sectsty}
 \usepackage[left=30mm, right=25mm,top=25mm,bottom=25mm]{geometry}
 \usepackage[nodisplayskipstretch]{setspace}
 \setstretch{1.5}
+\usepackage{graphicx}
 \setcounter{secnumdepth}{4} % seting level of numbering 
 \usepackage[T1]{fontenc}
-\usepackage{graphicx}
 \usepackage{subcaption}  % For subfigures
 \usepackage{amssymb}
 \usepackage{amsmath}
@@ -19,7 +20,6 @@
 \usepackage{url}
 \usepackage{nomencl}
 \makenomenclature
-\usepackage{sectsty}
 \chapterfont{\centering\huge\bfseries}
 
 %Remove title "Bibliography"
@@ -33,30 +33,27 @@
 \renewcommand\labelenumi{(\theenumi)}
 \usepackage[font=small,labelfont=bf]{caption}
 
+\renewcommand{\nomlabel}[1]{\hspace{0pt}\textbf{#1}\hspace{5em}} % Adjust spacing here
+\setlength{\nomlabelwidth}{5cm} % Adjust the width of the label column
+
 \begin{document}
+	\begin{sloppypar}
 	\include{TitlePage}
 	\pagenumbering{roman}
-	% Declaration section
 	\chapter*{Declaration}
 	\addcontentsline{toc}{chapter}{Declaration}
 	\input{Declaration}
-
-	% Acknowledgement section
 	\chapter*{Acknowledgments}
 	\addcontentsline{toc}{chapter}{Acknowledgments}
-	\input{Contents/Acknowledgement}
-	
-	% Abstract section
+	\input{Contents/Acknowledgement}	
 	\chapter*{Abstract}
 	\addcontentsline{toc}{chapter}{Abstract}
-	\input{Contents/Abstract}		
+	\input{Contents/Abstract}	
 	\include{Contents/table of contents}	
 	\include{Contents/List of tables}
 	\include{Contents/List of figures}
 	\pagenumbering{arabic}	
-	\include{Contents/Nomenclature}
-	
-
+	\include{Contents/Nomenclature}	
 \chapter{Introduction}
 	\input{Chapter 1/Introduction}
 \chapter{Literature Review}
@@ -69,4 +66,5 @@
 	\input{Chapter 5/Conclusion}
 \chapter{References}		
 \bibliography{Bibliography}	
+\end{sloppypar}
 \end{document}

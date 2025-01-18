@@ -21,15 +21,6 @@
 \providecommand{\BIBdecl}{\relax}
 \BIBdecl
 
-\bibitem{Zubieta2015}
-L.~E. Zubieta, ``Power management and optimization concept for dc microgrids,''
-  in \emph{ARDA Power Inc}, 2015.
-
-\bibitem{Jianfang2017}
-X.~Jianfang, Z.~Tianyang, H.~K. Leong, and P.~Wang, ``Smart energy hub -
-  modularized hybrid ac/dc microgrid: System design and deployment,''
-  \emph{Energy Research Institute}, 2017.
-
 \bibitem{Dinesh2017}
 K.~Dinesh and Z.~Firuz, ``Dc microgrid technology: System architectures, ac
   grid interfaces, grounding schemes, power quality, communication networks,

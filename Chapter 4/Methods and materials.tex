@@ -21,7 +21,7 @@ The four houses in the microgrid allow for the simulation of various scenarios t
 \end{list}
 
 \section{Matlab Simulink Model}
-The proposed microgrid EMS and scenarios are implemented using the Matlab Simulink platform. Each scenario is modeled as a separate block, with appropriate connections to represent energy flow, storage, and interaction with the microgrid.
+The proposed microgrid EMS and scenarios are implemented using the Matlab Simulink platform. Each scenario is modelled as a separate block, with appropriate connections to represent energy flow, storage, and interaction with the microgrid.
 \section{Validation and Verification}
 The proposed microgrid EMS's validity is confirmed by conducting comparisons with a physical laboratory model and benchmark scenarios. Sensitivity analysis is conducted to assess the system's robustness to varying parameters.
 \section{Microgrid Formation}
@@ -62,19 +62,19 @@ In the evaluation of the system, two series of interconnected PV modules with pa
 	\end{table}
 \end{center}
 
-\autoref{fig:PhotoVoltaicGenerationIrradianceandTemperature} displays the irradiance and temperature data intended for use as input parameters in the PV simulation block. Given their close proximity, it can be inferred that the irradiance will be consistent across all solar panels of the units.
+\autoref{fig:PhotoVoltaicGenerationIrradianceandTemperature} displays the irradiance and temperature data intended for use as input parameters in the PV simulation block. Given their proximity, it can be inferred that the irradiance will be consistent across all solar panels of the units.
 Simulink's Data Inspector tool was used to capture and plot the data. The plots are in seconds, with the time periods scaled as follows:
 %--------
 \begin{figure}[H]
 	\centering
 	\includegraphics[width=15cm]{Figures/scale 1 day.png}
-	\caption{1-day period – 86400 seconds}
+	\caption{1-day period – 86400 seconds.}
 	\label{fig:scale1day}
 \end{figure}
 \begin{figure}[H]
 	\centering
 	\includegraphics[width=15cm]{Figures/scale 5 day.png}
-	\caption{5-days period – 432,000 second}
+	\caption{5-days period – 432,000 seconds.}
 	\label{fig:scale5day}
 \end{figure}
 %---------
@@ -123,7 +123,7 @@ The energy storage block in Simulink offers a versatile configuration that can a
 \end{figure}
 
 \subsection{Load Profile}
-Internally, most of the appliances operate on DC \cite{Muhammad2017}. With the improvement in technology such as USB power delivery ($USB-PD$) standards, appliances such as LCD TV, laptops and monitors can be powered directly from USB connection.  The load profile provided in \autoref{fig:LoaddemandProfile1} to \autoref{fig:LoaddemandProfile4} are utilised to model various load conditions experienced by the units over a 24-hour period.
+Most appliances are internally powered by DC \cite{Muhammad2017}. With the improvement in technology such as USB power delivery ($USB-PD$) standards, appliances such as LCD TV, laptops and monitors can be powered directly from USB connection.  The load profile provided in \autoref{fig:LoaddemandProfile1} to \autoref{fig:LoaddemandProfile4} are utilised to model various load conditions experienced by the units over a 24-hour period.
 \begin{figure}[H]
 	\centering
 	\includegraphics[totalheight=6cm]{Figures/ldp1.png}
@@ -154,7 +154,7 @@ Matlab Signal editor block in \autoref{fig:Loadprofilewaveformselector} is used 
 	\includegraphics[totalheight=4cm]{Figures/load profile selector.png}
 	\caption{Load profile waveform selector}
 	\label{fig:Loadprofilewaveformselector}
-\end{figure}
+\end{figure}4.9.1 Lab results - Unit 1
 \begin{figure}[H]
 	\centering
 	\includegraphics[totalheight=10cm]{Figures/REMCS.png}
@@ -162,7 +162,7 @@ Matlab Signal editor block in \autoref{fig:Loadprofilewaveformselector} is used 
 	\label{fig:REMCSunitMatlaboverview}
 \end{figure}
 
-\autoref{fig:REMCSunitMatlaboverview} above illustrates a Matlab/Simulink representation of an REMCS unit connected to a solar farm through a DC MG. The units’ configuration can be modified by addition and or removal of ESS and BSS.  In the REMCS block, an MPPT system interfaces with the PV module, and a bidirectional DC-DC converter connects to the external grid. Several switches are employed to control the grid.\par
+\autoref{fig:REMCSunitMatlaboverview} above illustrates a Matlab/Simulink representation of an REMCS unit connected to a solar farm through a DC MG. The units’ configuration can be modified by addition and or removal of ESS and BSS.  In the REMCS block, an MPPT system interfaces with the PV module, and a bidirectional DC-DC converter connects to the external grid. Switches are employed to control the grid.\par
 The residential nano grid is shown in \autoref{fig:REMCSnanogrid} below, consisting of terminals for connection with solar panels, local BESS and the grid. 
 
 \begin{figure}[H]
@@ -190,7 +190,7 @@ The load demand for the load profiles is determined by adding up the total power
 The Systems of Systems framework allows REMCS units to operate fully independent without direct communication to other units in the grid. The state observer REMCS, using power flow and voltage measurements can determine the state of the grid and respond accordingly.\par
 The Systems of Systems philosophy empowers REMCS units to operate as self-contained entities, operating independently without the necessity for direct communication with other units interconnected in the grid. Instead of relying on constant coordination or centralized control, these REMCS units are designed to function autonomously, ensuring flexibility and robustness in the overall system.\par
 Within this framework, a state observer is integrated into the REMCS. This observer uses power flow and voltage measurements to assess and monitor the state of the grid. By continuously analysing these key parameters, the state observer can determine the health, performance, and stability of the grid at any given moment.\par
-This capability provides several advantages. First, it enables each REMCS unit to make informed decisions in real-time, optimizing its own operations based on the grid's condition. Second, it enhances the grid's resilience since REMCS units can respond to changes or disturbances independently.
+This capability provides some advantages. First, it enables each REMCS unit to make informed decisions in real-time, optimizing its own operations based on the grid's condition. Second, it enhances the grid's resilience since REMCS units can respond to changes or disturbances independently.
 \begin{figure}[H]
 	\centering
 	\includegraphics[totalheight=8cm]{Figures/statechart block.png}
@@ -220,7 +220,7 @@ Upon reaching a battery State of Charge of 100\%, and when the photovoltaic (PV)
 \section{Model parameters}
 The performance of the EMS is determined by the following:\par
 Bat\_SoC – The energy storage system plays a crucial role in enhancing grid reliability by supplying power during periods when energy sources may not be dependable. It is imperative to prioritize battery charging whenever Renewable Energy Sources (RES) are actively generating power.\par
-SF\_SoC (Solar farm state of charge)– The energy storage system within the solar farm provides power to all REMCS units and plays an important role in maintaining grid voltage stability. When systems operate autonomously, it is essential that they refrain from drawing power as the State of Charge (SoC) of the solar farm's energy storage system approaches depletion.\par
+SF\_SoC (Solar farm state of charge)– The energy storage system within the solar farm provides power to all REMCS units and plays a key role in maintaining grid voltage stability. When systems operate autonomously, it is essential that they refrain from drawing power as the State of Charge (SoC) of the solar farm's energy storage system approaches depletion.\par
 Loads – Predicting and planning for load demand presents a challenge, primarily because consumers do not adhere to a rigid schedule for switching on their loads. In microgrid systems, demand-side management strategies, as discussed in \cite{Mota2022}, have been adopted to enhance efficiency, reduce utility bills, and serve various other objectives.\par
 In summary, the integration of an EMS into the grid is anticipated to enhance the charging rate of local Battery Energy Storage Systems (BESS), particularly during daylight hours when PV modules generate power. This integration also plays a vital role in maintaining grid stability by reducing the discharge rate of BESS. Additionally, the Energy Management System (EMS) is responsible for effectively directing surplus power generated by PV modules back into the grid. To achieve these objectives, the EMS can implement strategies to reduce overall load demand.\par
 The benchmarks mentioned above will undergo testing within all four scenarios, with each load profile depicted in \autoref{fig:LoaddemandProfile1} through \autoref{fig:LoaddemandProfile4} being applied. This testing procedure will serve as the means to assess the performance of the EMS.
@@ -257,14 +257,14 @@ The benchmarks mentioned above will undergo testing within all four scenarios, w
 		\begin{subfigure}[b]{0.5\textwidth}
 			\centering
 			\includegraphics[width=\textwidth]{Figures/supply capacity with ems v load demand.png}
-			\caption{EMS Supply capacity with vs load demand}
+			\caption{EMS Supply capacity vs load demand}
 			\label{fig:nonEMSSupplycapacitywithvsloaddemand}
 		\end{subfigure}
 		\hfill
 		\begin{subfigure}[b]{0.45\textwidth}
 			\centering
 			\includegraphics[width=\textwidth]{Figures/supply capacity with non-ems v load demand.png}
-			\caption{Non-EMS Supply capacity with vs load demand}
+			\caption{Non-EMS Supply capacity vs load demand}
 			\label{fig:SupplycapacitywithEMSvloaddemand}
 		\end{subfigure}
 		\caption{SoC comparison between EMS and Non-EMS supply capacity}
@@ -389,7 +389,7 @@ The load demands versus supply capacity for the two systems are depicted in \aut
 	\caption{Solar Farm SoC EMS vs non-EMS}
 	\label{fig:solarfarmsocemsvnonems}
 \end{figure}
-Referring to \autoref{fig:solarfarmsocemsvnonems}, the Solar farm gradually decreases its state of charge (SoC) from time 0 seconds to approximately ${4.3\times10^4 s}$seconds. Due to high load demand, the solar farm's SoC increases by 10\% for the EMS system and 15\% for the non-EMS system. The lower SoC in the EMS system compared to the non-EMS system can be attributed to the EMS's prioritisation of local energy storage, which attempts to charge local batteries that are non-existent for this particular unit, this defaults the EMS to Start. Start state is verified in \autoref{fig:LocalSoCandstatetransition} from time ${5\times10^4 s}$seconds to time ${6.02\times10^4 s}$seconds.\par
+Referring to \autoref{fig:solarfarmsocemsvnonems}, the Solar farm gradually decreases its state of charge (SoC) from time 0 seconds to approximately ${4.3\times10^4 s}$seconds. Due to high load demand, the solar farm's SoC increases by 10\% for the EMS system and 15\% for the non-EMS system. The lower SoC in the EMS system compared to the non-EMS system can be attributed to the EMS's prioritisation of local energy storage, which attempts to charge local batteries that are non-existent for this unit, this defaults the EMS to Start. Start state is verified in \autoref{fig:LocalSoCandstatetransition} from time ${5\times10^4 s}$seconds to time ${6.02\times10^4 s}$seconds.\par
 
 \begin{figure}[H]
 	\centering
@@ -489,7 +489,7 @@ Case study 3 presents an REMCS unit which lacks PV module, with no PV panels to 
 	\label{fig:load_demand_comparison009}
 \end{figure}
 
-When comparing load demand and supply capacity between \autoref{fig:EMSSupplycapacityvloaddemand1} and \autoref{fig:NonEMSSupplycapacityvloaddemand1}, it is evident that EMS and non-EMS systems generally exhibit similar responses. However, there is a noticeable deviation occurring between ${6.10\times10^4 s}$seconds and ${7\times10^4 s}$seconds. During this time frame, the REMCS reduces supply capacity 1863 seconds earlier compared to the non-EMS system.\par
+When comparing load demand and supply capacity between \autoref{fig:EMSSupplycapacityvloaddemand1} and \autoref{fig:NonEMSSupplycapacityvloaddemand1}, it is evident that EMS and non-EMS systems generally exhibit similar responses. However, there is a noticeable deviation occurring between ${6.10\times10^4 s}$seconds and ${7\times10^4 s}$seconds. During this period, the REMCS reduces supply capacity 1863 seconds earlier compared to the non-EMS system.\par
 
 The early drop of supply capacity in the EMS system is directly attributable to EMS energy saving feature which cuts off all loads when SoC drops below 10\%, as it can be show in \autoref{fig:LocalstorageSoCEMSvnonEMS}.
 
@@ -505,7 +505,7 @@ Load profile 4 demonstrates the load shedding feature of the EMS which reduces s
 	\centering
 	\begin{subfigure}[b]{0.5\textwidth}
 		\centering
-		\includegraphics[width=\textwidth]{Figures/EMS Supply capacity v load demand3.png}
+		\includegraphics[width=\textwidth]{Figures/ems supply capacity v load demand3.png}
 		\caption{EMS Supply capacity vs load demand}
 		\label{fig:EMSSupplycapacityvloaddemand2}
 	\end{subfigure}
@@ -520,7 +520,7 @@ Load profile 4 demonstrates the load shedding feature of the EMS which reduces s
 	\label{fig:load_demand_comparison002}
 \end{figure}
 %--------------------------------
-The time differences between the systems are shown in \autoref{fig:EMSSupplycapacityvloaddemand2} and \autoref{fig:NonEMSSupplycapacityvloaddemand2}. As a result of load shedding, EMS gains a 2140 seconds before dropping supply to zero.
+The time differences between the systems are shown in \autoref{fig:EMSSupplycapacityvloaddemand2} and \autoref{fig:NonEMSSupplycapacityvloaddemand2}. As a result of load shedding, EMS gains 2140 seconds before dropping supply to zero.
 
 \begin{figure}[H]
 	\centering
@@ -599,14 +599,17 @@ A functional system was developed in the lab, as depicted in \autoref{fig:Labset
 \begin{figure}[H]
 	\centering
 	\includegraphics[totalheight=6cm]{Figures/Lab setup of four units DC microgrid.png}
-	\caption{Lab setup of four units DC microgrid}
+	\caption{Lab setup of four units DC microgrid.}
 	\label{fig:LabsetupoffourunitsDCmicrogrid}
 \end{figure} 
 The data obtained from the models was collected for a period of 5 days in which some loads were switched at random intervals to simulate everyday appliances usages. The purpose of this data collection was to analyse the behaviour of electrical loads in a typical household setting. By randomly switching loads, the object was to create a realistic representation of appliance usage patterns, including peak usage times and energy consumption fluctuations. This approach allows for a more accurate assessment of the models' performance in managing energy demand.
+
+\subsection{Lab results - Unit 1}
+
 \begin{table}[!ht]
 	\begin{center}
 		\caption{Unit1 - Laboratory setup parameters}
-		%\label{tab:table2}
+		\label{tab:Unit1Laboratorysetupparameters}
 		\begin{tabular}{|p{6cm}|p{8cm}|} % <-- Alignments: 1st column left, 2nd middle and 3rd right, with vertical lines in between
 			\hline
 			Battery size and capacity	& Nominal voltage: 12V DC \\
@@ -705,7 +708,7 @@ Unit 3 is highly dependent on the grid from sunset to sunrise. During this perio
 \begin{table}[!ht]
 	\begin{center}
 		\caption{Unit4 - Laboratory setup parameters}
-		%\label{tab:table2}
+		\label{tab:Unit4Laboratorysetupparameters}
 		\begin{tabular}{|p{6cm}|p{8cm}|} % <-- Alignments: 1st column left, 2nd middle and 3rd right, with vertical lines in between
 			\hline
 			Battery size and capacity	& None\\
@@ -719,7 +722,6 @@ Unit 3 is highly dependent on the grid from sunset to sunrise. During this perio
 	\end{center}
 \end{table}
 
-
 Unit 4 is entirely dependent on the grid, making it highly sensitive to any major changes in the grid system. This unit underscores the critical importance of maintaining grid stability. It also demonstrates the necessity of self-management; without an Energy Management System (EMS) to control local loads and the absence of local storage and generation capacity, this unit could potentially destabilize the grid.
 \begin{figure}[H]
 	\centering
@@ -729,14 +731,10 @@ Unit 4 is entirely dependent on the grid, making it highly sensitive to any majo
 \end{figure}
 The system optimizes energy use by adjusting to consumption patterns, activating power-saving measures when demand exceeds supply, and extending battery lifespan by preventing over-discharge. Power sharing from solar panels occurs when local battery storage is full, benefiting the grid. In Unit 2, which relies on the grid for charging due to limited battery capacity and no PV module, the control system ensures stability by disconnecting loads as needed and preventing complete battery discharge. Grid usage is prioritized to extend operation times, though the local state of charge drops quickly, requiring a switch to grid power.\par
 The laboratory system's responses are similar to the Matlab simulation since the unit's EMS remains consistent; any variations are due to differences in battery capacity and load.
+\subsection{Sensitivity analysis} 
+The units being evaluated present an overall EMS response to the availability of resources or lack thereof. In real-life scenarios, a unit system may transition from having all resources available, such as photovoltaic energy and battery storage (Mode 4), to having none (Mode 1).\par
+Furthermore, load profiles are employed to evaluate each mode’s response to varying load demands. In this situation, the EMS must determine the resources available to it and manage its output accordingly. The simulation and results for Mode 4, (\autoref{tab:Unit4Laboratorysetupparameters}) represent the worst-case scenario, where a unit has no resources. In this case, the EMS is shown to turn off all loads to prevent grid collapse when the state of charge of the solar farm falls below 10\%.\par
 
-
-
-
-
-
-
-
-
+At the other end of the spectrum, when the system has access to resources such as solar energy and storage, varying load profiles and demands lead to different responses compared to Mode 4. From the results obtained in (\autoref{tab:Unit1Laboratorysetupparameters}), the unit is able to respond by transitioning to any state that allows it to meet its objectives, prioritizing local demand before supplying external loads.
 
 
